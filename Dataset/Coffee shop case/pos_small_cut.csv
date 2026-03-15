@@ -1,0 +1,1001 @@
+branch,order_id,order_dt,category,menu,sweet_level,price,cost,qty,revenue,gross_profit,gross_margin,trans_type,payment,gender,membership,member_id
+alpha,alpha000088,2023-01-03 09:39:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,to go,mobile,M,False,
+beta,beta000079,2023-01-03 11:48:00,tea,Jasmine Tea,0.0,55,11.0,1,55,44.0,0.8,eat in,mobile,M,True,61.0
+beta,beta000172,2023-01-04 12:21:00,coffee,Mocha Cold Brew,1.0,165,74.25,1,165,90.75,0.55,eat in,mobile,F,True,58.0
+beta,beta000215,2023-01-04 15:39:00,tea,Jasmine Tea,0.5,55,11.0,1,55,44.0,0.8,delivery,mobile,F,True,885.0
+alpha,alpha000210,2023-01-04 17:27:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,eat in,credit card,M,False,
+alpha,alpha000212,2023-01-04 17:32:00,coffee,Espresso,0.25,55,19.25,1,55,35.75,0.65,to go,mobile,F,False,
+beta,beta000277,2023-01-05 07:16:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,M,True,45.0
+beta,beta000385,2023-01-05 15:06:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,eat in,mobile,F,False,
+alpha,alpha000611,2023-01-09 11:13:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,to go,credit card,M,False,
+alpha,alpha000625,2023-01-09 13:20:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,delivery,mobile,F,False,
+alpha,alpha000679,2023-01-09 16:59:00,coffee,Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,credit card,F,False,
+alpha,alpha000742,2023-01-10 11:38:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,credit card,F,False,
+beta,beta001113,2023-01-10 13:51:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,True,20.0
+alpha,alpha000793,2023-01-10 16:01:00,coffee,Latte,0.5,65,26.0,6,390,234.0,0.6,to go,credit card,F,False,
+beta,beta001156,2023-01-10 17:09:00,bakery,Muffin,,60,27.0,3,180,99.0,0.55,delivery,mobile,F,True,17.0
+alpha,alpha000808,2023-01-10 17:11:00,coffee,Cappuccino,0.5,75,26.25,2,150,97.5,0.65,eat in,mobile,F,False,
+beta,beta001183,2023-01-10 19:22:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,eat in,mobile,F,False,
+beta,beta001316,2023-01-11 16:13:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,886.0
+beta,beta001474,2023-01-12 16:56:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,delivery,mobile,F,True,17.0
+alpha,alpha001148,2023-01-13 20:01:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,M,False,
+alpha,alpha001172,2023-01-14 15:32:00,coffee,Iced Latte,0.5,65,19.5,3,195,136.5,0.7,eat in,credit card,F,True,887.0
+beta,beta001764,2023-01-15 10:30:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,879.0
+alpha,alpha001250,2023-01-16 11:55:00,smoothie,Mango Smoothie,0.5,90,31.5,1,90,58.5,0.65,to go,gift card,M,True,839.0
+alpha,alpha001292,2023-01-16 15:14:00,smoothie,Kiwi Smoothie,1.0,90,40.5,6,540,297.0,0.55,to go,mobile,F,False,
+beta,beta002000,2023-01-17 07:26:00,coffee,Mocha,0.5,70,28.0,1,70,42.0,0.6,delivery,cash,M,True,846.0
+alpha,alpha001597,2023-01-19 10:08:00,coffee,Mocha,0.75,70,28.0,1,70,42.0,0.6,eat in,credit card,M,False,
+alpha,alpha001704,2023-01-20 08:18:00,coffee,Espresso,0.5,55,19.25,3,165,107.25,0.65,to go,cash,F,True,10.0
+beta,beta002760,2023-01-21 13:03:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,to go,credit card,F,True,60.0
+alpha,alpha001875,2023-01-21 16:47:00,smoothie,Strawberry Smoothie,0.25,85,25.5,2,170,119.0,0.7,eat in,credit card,M,False,
+beta,beta002885,2023-01-23 08:09:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,eat in,credit card,F,True,58.0
+alpha,alpha002012,2023-01-23 15:38:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,M,True,896.0
+beta,beta003008,2023-01-23 15:39:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,8.0
+beta,beta003131,2023-01-24 12:42:00,coffee,Mocha,0.5,70,28.0,1,70,42.0,0.6,delivery,mobile,M,True,1.0
+alpha,alpha002127,2023-01-24 15:01:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,credit card,F,True,879.0
+alpha,alpha002213,2023-01-25 10:15:00,smoothie,Mango Smoothie,0.75,90,31.5,1,90,58.5,0.65,to go,mobile,M,False,
+beta,beta003325,2023-01-25 14:22:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,M,True,7.0
+beta,beta003377,2023-01-25 18:08:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,1.0
+beta,beta003393,2023-01-25 21:28:00,smoothie,Mango Smoothie,0.5,90,31.5,3,270,175.5,0.65,eat in,mobile,M,True,40.0
+beta,beta003417,2023-01-26 09:50:00,tea,Jasmine Tea,0.5,55,11.0,1,55,44.0,0.8,eat in,mobile,M,True,867.0
+beta,beta003478,2023-01-26 14:53:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,F,True,33.0
+alpha,alpha002477,2023-01-27 18:30:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,cash,M,False,
+beta,beta004004,2023-01-30 11:04:00,smoothie,Mango Smoothie,0.25,90,31.5,2,180,117.0,0.65,eat in,mobile,F,True,59.0
+alpha,alpha002835,2023-02-01 14:59:00,tea,Yuzu Tea,0.0,70,24.5,3,210,136.5,0.65,to go,credit card,M,True,141.0
+beta,beta004505,2023-02-02 12:29:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,to go,credit card,M,True,915.0
+beta,beta004583,2023-02-02 17:33:00,coffee,Nitro Flat White,0.75,155,69.75,1,155,85.25,0.55,to go,mobile,M,True,6.0
+beta,beta004605,2023-02-02 19:30:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,True,14.0
+alpha,alpha002968,2023-02-03 07:18:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,mobile,F,True,58.0
+alpha,alpha003002,2023-02-03 10:33:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,credit card,F,True,111.0
+beta,beta004693,2023-02-03 13:56:00,tea,Green Tea,0.5,65,19.5,3,195,136.5,0.7,delivery,mobile,F,True,27.0
+alpha,alpha003172,2023-02-05 15:22:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,to go,credit card,M,True,68.0
+alpha,alpha003318,2023-02-06 17:51:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,F,True,109.0
+alpha,alpha003349,2023-02-06 21:59:00,tea,Black Tea,0.75,45,9.0,2,90,72.0,0.8,delivery,credit card,M,False,
+beta,beta005234,2023-02-08 08:12:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,eat in,mobile,F,True,923.0
+beta,beta005279,2023-02-08 12:58:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,delivery,mobile,M,True,905.0
+alpha,alpha003649,2023-02-09 15:09:00,coffee,Americano,1.0,45,13.5,1,45,31.5,0.7,to go,mobile,M,False,
+alpha,alpha003652,2023-02-09 15:15:00,coffee,Latte,0.75,65,26.0,3,195,117.0,0.6,to go,credit card,M,False,
+beta,beta005466,2023-02-09 16:35:00,smoothie,Kiwi Smoothie,0.5,90,40.5,4,360,198.0,0.55,delivery,mobile,F,True,17.0
+alpha,alpha003768,2023-02-10 12:46:00,smoothie,Mango Smoothie,0.0,90,31.5,2,180,117.0,0.65,eat in,mobile,F,True,963.0
+beta,beta005588,2023-02-10 12:48:00,coffee,Nitro Flat White,0.5,155,69.75,1,155,85.25,0.55,eat in,mobile,F,True,883.0
+beta,beta005859,2023-02-13 08:23:00,tea,Green Tea,0.5,65,19.5,1,65,45.5,0.7,to go,mobile,F,True,911.0
+alpha,alpha003953,2023-02-13 10:17:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,eat in,mobile,F,False,
+alpha,alpha004030,2023-02-13 16:44:00,tea,Green Tea,0.75,65,19.5,1,65,45.5,0.7,to go,credit card,M,False,
+beta,beta006002,2023-02-13 18:01:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,M,True,135.0
+alpha,alpha004071,2023-02-13 21:48:00,coffee,Latte,0.25,65,26.0,1,65,39.0,0.6,eat in,credit card,F,False,
+beta,beta006044,2023-02-14 07:26:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,delivery,mobile,M,True,102.0
+beta,beta006045,2023-02-14 07:56:00,tea,Bubble Tea,0.0,70,17.5,3,210,157.5,0.75,delivery,credit card,F,True,961.0
+alpha,alpha004236,2023-02-15 16:13:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,eat in,credit card,M,True,98.0
+beta,beta006489,2023-02-16 18:26:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,True,970.0
+alpha,alpha004426,2023-02-17 15:35:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,credit card,F,False,
+alpha,alpha004557,2023-02-20 09:05:00,coffee,Iced Latte,0.25,65,19.5,2,130,91.0,0.7,to go,mobile,M,False,
+alpha,alpha004648,2023-02-20 19:28:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,eat in,credit card,F,True,50.0
+beta,beta007081,2023-02-21 10:43:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,delivery,mobile,F,True,37.0
+beta,beta007225,2023-02-22 12:00:00,coffee,Iced Latte,0.75,65,19.5,1,65,45.5,0.7,to go,mobile,F,True,895.0
+alpha,alpha004919,2023-02-23 13:56:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,False,
+beta,beta007476,2023-02-24 08:15:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,M,False,
+alpha,alpha005034,2023-02-24 12:29:00,coffee,Iced Americano,0.5,45,13.5,1,45,31.5,0.7,to go,mobile,F,True,90.0
+beta,beta007678,2023-02-25 11:00:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,M,True,876.0
+alpha,alpha005153,2023-02-25 14:02:00,coffee,Americano,0.5,45,13.5,3,135,94.5,0.7,to go,credit card,M,False,
+beta,beta007719,2023-02-25 15:51:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,mobile,M,True,56.0
+beta,beta007806,2023-02-27 08:17:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,False,
+beta,beta007863,2023-02-27 12:25:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,857.0
+alpha,alpha005356,2023-02-28 07:33:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,credit card,M,False,
+beta,beta007974,2023-02-28 08:38:00,coffee,Cappuccino,1.0,75,26.25,1,75,48.75,0.65,eat in,mobile,M,True,836.0
+beta,beta008012,2023-02-28 10:37:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,credit card,F,True,861.0
+alpha,alpha005462,2023-03-01 08:35:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,credit card,M,False,
+beta,beta008200,2023-03-01 15:00:00,coffee,Nitro Flat White,0.0,155,69.75,1,155,85.25,0.55,to go,mobile,M,True,1015.0
+alpha,alpha005533,2023-03-01 20:46:00,tea,Green Tea,1.0,65,19.5,1,65,45.5,0.7,to go,mobile,F,False,
+beta,beta008296,2023-03-02 10:57:00,tea,Thai Tea,0.75,70,17.5,2,140,105.0,0.75,delivery,mobile,M,True,1016.0
+beta,beta008333,2023-03-02 14:22:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,103.0
+beta,beta008527,2023-03-03 18:38:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,F,False,
+alpha,alpha005741,2023-03-03 19:38:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,credit card,F,True,177.0
+beta,beta008593,2023-03-04 15:08:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,mobile,M,True,998.0
+alpha,alpha005786,2023-03-04 17:44:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,credit card,F,False,
+alpha,alpha005790,2023-03-04 19:28:00,tea,Green Tea,0.5,65,19.5,5,325,227.5,0.7,delivery,mobile,F,False,
+beta,beta008857,2023-03-08 08:03:00,bakery,Muffin,,60,27.0,6,360,198.0,0.55,to go,cash,F,False,
+beta,beta008870,2023-03-08 09:35:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,to go,credit card,M,True,1023.0
+alpha,alpha006062,2023-03-08 15:10:00,tea,Green Tea,0.25,65,19.5,4,260,182.0,0.7,to go,mobile,M,True,7.0
+alpha,alpha006245,2023-03-10 13:13:00,smoothie,Kiwi Smoothie,0.25,90,40.5,1,90,49.5,0.55,eat in,credit card,M,True,1002.0
+beta,beta009227,2023-03-10 15:07:00,tea,Bubble Tea,0.5,70,17.5,2,140,105.0,0.75,eat in,mobile,M,True,1005.0
+alpha,alpha006343,2023-03-11 12:24:00,coffee,Iced Latte,0.5,65,19.5,1,65,45.5,0.7,eat in,mobile,M,False,
+alpha,alpha006360,2023-03-11 21:08:00,coffee,Americano,0.25,45,13.5,1,45,31.5,0.7,to go,cash,F,False,
+alpha,alpha006423,2023-03-13 13:23:00,coffee,Cappuccino,0.5,75,26.25,3,225,146.25,0.65,delivery,credit card,F,False,
+alpha,alpha006446,2023-03-13 15:52:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,mobile,F,False,
+beta,beta009682,2023-03-14 14:44:00,tea,Green Tea,0.75,65,19.5,2,130,91.0,0.7,delivery,mobile,F,True,213.0
+beta,beta009755,2023-03-15 08:02:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,M,True,189.0
+beta,beta009760,2023-03-15 08:14:00,coffee,Latte,0.5,65,26.0,1,65,39.0,0.6,eat in,mobile,F,True,148.0
+beta,beta009893,2023-03-15 17:58:00,coffee,Espresso,0.5,55,19.25,1,55,35.75,0.65,to go,mobile,M,True,844.0
+alpha,alpha006777,2023-03-16 18:04:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,delivery,credit card,M,True,68.0
+beta,beta010073,2023-03-16 21:40:00,tea,Thai Tea,1.0,70,17.5,2,140,105.0,0.75,eat in,mobile,M,True,882.0
+beta,beta010084,2023-03-17 07:42:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,delivery,mobile,M,True,875.0
+beta,beta010133,2023-03-17 10:48:00,coffee,Iced Latte,0.25,65,19.5,2,130,91.0,0.7,to go,mobile,M,True,929.0
+alpha,alpha006912,2023-03-17 17:20:00,smoothie,Watermelon Smoothie,0.75,75,30.0,3,225,135.0,0.6,to go,credit card,M,False,
+alpha,alpha006961,2023-03-18 16:05:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,mobile,M,False,
+beta,beta010530,2023-03-20 14:50:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,delivery,mobile,M,True,214.0
+alpha,alpha007158,2023-03-21 08:41:00,coffee,Mocha,1.0,70,28.0,2,140,84.0,0.6,to go,credit card,M,False,
+alpha,alpha007486,2023-03-24 08:48:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,to go,mobile,F,False,
+beta,beta011142,2023-03-24 13:51:00,tea,Jasmine Tea,0.0,55,11.0,1,55,44.0,0.8,to go,mobile,M,True,186.0
+beta,beta011222,2023-03-24 18:46:00,tea,Bubble Tea,0.5,70,17.5,3,210,157.5,0.75,to go,mobile,F,True,1031.0
+beta,beta011322,2023-03-26 10:03:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,to go,mobile,F,True,171.0
+alpha,alpha007732,2023-03-27 13:37:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,1002.0
+alpha,alpha007994,2023-03-29 18:01:00,coffee,Cappuccino,0.5,75,26.25,1,75,48.75,0.65,to go,credit card,M,False,
+beta,beta011958,2023-03-30 13:10:00,tea,Bubble Tea,0.5,70,17.5,2,140,105.0,0.75,to go,mobile,F,True,125.0
+alpha,alpha008077,2023-03-30 15:19:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,M,False,
+beta,beta012023,2023-03-30 17:41:00,tea,Bubble Tea,1.0,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+beta,beta012168,2023-03-31 15:21:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,M,True,77.0
+alpha,alpha008245,2023-03-31 21:51:00,smoothie,Kiwi Smoothie,0.75,90,40.5,3,270,148.5,0.55,delivery,mobile,F,False,
+beta,beta012264,2023-04-01 10:55:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,credit card,F,True,968.0
+beta,beta012382,2023-04-02 15:48:00,smoothie,Strawberry Smoothie,0.0,85,25.5,1,85,59.5,0.7,to go,mobile,F,True,933.0
+beta,beta012403,2023-04-03 07:51:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,31.0
+beta,beta012449,2023-04-03 10:52:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,F,False,
+beta,beta012490,2023-04-03 15:00:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,delivery,mobile,M,False,
+alpha,alpha008412,2023-04-03 20:48:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,M,True,983.0
+alpha,alpha008461,2023-04-04 12:26:00,coffee,Latte,0.75,65,26.0,1,65,39.0,0.6,to go,credit card,M,True,926.0
+alpha,alpha008484,2023-04-04 14:34:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,credit card,M,False,
+alpha,alpha008601,2023-04-05 19:04:00,tea,Green Tea,0.75,65,19.5,1,65,45.5,0.7,to go,credit card,F,False,
+beta,beta012902,2023-04-07 09:30:00,coffee,Iced Latte,0.0,65,19.5,3,195,136.5,0.7,eat in,mobile,M,True,877.0
+beta,beta012994,2023-04-07 16:43:00,coffee,Latte,0.5,65,26.0,3,195,117.0,0.6,to go,mobile,M,True,231.0
+alpha,alpha008788,2023-04-07 18:29:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,delivery,credit card,F,True,138.0
+alpha,alpha008799,2023-04-07 20:22:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,credit card,F,False,
+beta,beta013058,2023-04-08 12:05:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,to go,mobile,F,False,
+beta,beta013198,2023-04-10 11:05:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,to go,cash,F,True,236.0
+alpha,alpha008941,2023-04-10 15:32:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,credit card,F,False,
+beta,beta013298,2023-04-10 18:03:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,116.0
+beta,beta013405,2023-04-11 15:38:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,mobile,F,True,259.0
+beta,beta013466,2023-04-12 08:26:00,coffee,Nitro Flat White,0.75,155,69.75,1,155,85.25,0.55,eat in,mobile,M,True,276.0
+beta,beta013547,2023-04-12 17:18:00,tea,Jasmine Tea,1.0,55,11.0,1,55,44.0,0.8,to go,mobile,F,True,865.0
+alpha,alpha009272,2023-04-14 13:16:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,credit card,M,False,
+alpha,alpha009335,2023-04-16 18:20:00,coffee,Iced Latte,0.0,65,19.5,1,65,45.5,0.7,to go,credit card,F,False,
+alpha,alpha009375,2023-04-17 13:32:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,delivery,credit card,F,False,
+beta,beta013811,2023-04-18 12:00:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,1034.0
+beta,beta013827,2023-04-18 12:56:00,coffee,Mocha,0.0,70,28.0,1,70,42.0,0.6,to go,mobile,M,True,1083.0
+alpha,alpha009463,2023-04-18 13:01:00,coffee,Latte,0.75,65,26.0,2,130,78.0,0.6,to go,mobile,F,True,149.0
+beta,beta014274,2023-04-21 12:21:00,coffee,Iced Latte,0.0,65,19.5,2,130,91.0,0.7,delivery,mobile,F,True,999.0
+alpha,alpha009766,2023-04-21 12:26:00,coffee,Cappuccino,0.25,75,26.25,1,75,48.75,0.65,eat in,mobile,M,False,
+alpha,alpha009846,2023-04-22 12:06:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,credit card,M,False,
+alpha,alpha009853,2023-04-22 15:54:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,eat in,credit card,F,False,
+alpha,alpha009878,2023-04-23 14:07:00,coffee,Nitro Flat White,0.5,155,69.75,1,155,85.25,0.55,delivery,cash,M,False,
+alpha,alpha009889,2023-04-24 07:54:00,coffee,Latte,0.0,65,26.0,1,65,39.0,0.6,eat in,credit card,F,False,
+alpha,alpha009970,2023-04-24 15:42:00,coffee,Nitro Flat White,0.25,155,69.75,1,155,85.25,0.55,delivery,credit card,M,False,
+alpha,alpha010020,2023-04-25 08:52:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,M,False,
+beta,beta014891,2023-04-26 10:15:00,tea,Yuzu Tea,0.5,70,24.5,2,140,91.0,0.65,to go,mobile,M,False,
+beta,beta014938,2023-04-26 15:28:00,coffee,Americano,0.75,45,13.5,3,135,94.5,0.7,delivery,mobile,M,True,1063.0
+alpha,alpha010369,2023-04-28 14:26:00,coffee,Nitro Flat White,0.75,155,69.75,3,465,255.75,0.55,eat in,credit card,M,True,268.0
+beta,beta015273,2023-04-28 16:17:00,coffee,Mocha,0.0,70,28.0,1,70,42.0,0.6,eat in,mobile,F,True,1034.0
+beta,beta015342,2023-04-29 09:25:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,1052.0
+alpha,alpha010473,2023-04-30 18:27:00,bakery,Cookie,,85,29.75,9,765,497.25,0.65,delivery,mobile,F,False,
+alpha,alpha010505,2023-05-01 12:45:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,eat in,credit card,M,True,85.0
+alpha,alpha010555,2023-05-02 08:58:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,F,True,245.0
+alpha,alpha010560,2023-05-02 09:53:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+beta,beta015596,2023-05-02 16:48:00,tea,Green Tea,0.25,65,19.5,3,195,136.5,0.7,delivery,mobile,F,True,89.0
+beta,beta015859,2023-05-08 07:57:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,delivery,cash,F,True,1117.0
+beta,beta016111,2023-05-09 19:15:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,cash,M,True,182.0
+alpha,alpha011253,2023-05-11 12:08:00,tea,Yuzu Tea,0.25,70,24.5,2,140,91.0,0.65,eat in,mobile,M,False,
+beta,beta016256,2023-05-11 12:58:00,tea,Green Tea,0.25,65,19.5,2,130,91.0,0.7,eat in,mobile,F,False,
+alpha,alpha011347,2023-05-12 10:27:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,to go,mobile,F,False,
+alpha,alpha011530,2023-05-15 11:25:00,tea,Black Tea,0.5,45,9.0,1,45,36.0,0.8,eat in,credit card,M,False,
+beta,beta016606,2023-05-15 11:49:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,True,1044.0
+alpha,alpha011557,2023-05-15 15:06:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,eat in,mobile,M,False,
+beta,beta016690,2023-05-15 18:27:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+alpha,alpha011597,2023-05-15 19:49:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,credit card,M,True,316.0
+alpha,alpha011613,2023-05-16 08:52:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,credit card,F,False,
+beta,beta016746,2023-05-16 12:18:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,F,True,247.0
+beta,beta016842,2023-05-17 09:17:00,tea,Yuzu Tea,0.75,70,24.5,1,70,45.5,0.65,eat in,mobile,F,True,304.0
+beta,beta016843,2023-05-17 09:29:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,mobile,F,True,153.0
+beta,beta016854,2023-05-17 10:41:00,tea,Yuzu Tea,0.5,70,24.5,2,140,91.0,0.65,delivery,credit card,F,True,334.0
+beta,beta016877,2023-05-17 13:10:00,tea,Yuzu Tea,0.75,70,24.5,2,140,91.0,0.65,to go,mobile,M,True,869.0
+alpha,alpha011760,2023-05-17 16:13:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,to go,credit card,M,True,1005.0
+alpha,alpha011781,2023-05-17 19:21:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,credit card,M,False,
+beta,beta016984,2023-05-18 13:01:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,mobile,M,True,278.0
+alpha,alpha011849,2023-05-18 15:18:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,F,False,
+alpha,alpha011855,2023-05-18 15:55:00,smoothie,Mango Smoothie,0.5,90,31.5,1,90,58.5,0.65,eat in,credit card,F,False,
+alpha,alpha011925,2023-05-19 10:57:00,smoothie,Mango Smoothie,0.25,90,31.5,2,180,117.0,0.65,to go,mobile,M,False,
+beta,beta017096,2023-05-19 11:20:00,smoothie,Watermelon Smoothie,0.75,75,30.0,1,75,45.0,0.6,to go,mobile,F,True,163.0
+alpha,alpha011955,2023-05-19 13:58:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,cash,F,False,
+beta,beta017157,2023-05-19 16:58:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,delivery,mobile,F,True,1183.0
+beta,beta017187,2023-05-20 09:35:00,coffee,Iced Latte,0.75,65,19.5,1,65,45.5,0.7,to go,cash,F,True,1084.0
+alpha,alpha012060,2023-05-20 15:53:00,coffee,Iced Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,credit card,M,False,
+beta,beta017481,2023-05-23 14:03:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,F,True,351.0
+alpha,alpha012287,2023-05-23 16:52:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,delivery,credit card,M,True,55.0
+beta,beta017517,2023-05-23 17:39:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,87.0
+alpha,alpha012313,2023-05-23 19:58:00,bakery,Donut,,40,12.0,4,160,112.0,0.7,to go,credit card,F,False,
+alpha,alpha012363,2023-05-24 15:14:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,eat in,credit card,M,True,845.0
+beta,beta017675,2023-05-25 10:10:00,smoothie,Strawberry Smoothie,0.0,85,25.5,1,85,59.5,0.7,to go,mobile,M,True,322.0
+alpha,alpha012432,2023-05-25 11:52:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,to go,mobile,M,False,
+alpha,alpha012575,2023-05-26 16:46:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,F,False,
+alpha,alpha012782,2023-05-29 19:28:00,tea,Green Tea,0.5,65,19.5,1,65,45.5,0.7,eat in,mobile,M,True,997.0
+beta,beta018235,2023-05-30 18:18:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,868.0
+beta,beta018249,2023-05-31 08:03:00,tea,Green Tea,0.0,65,19.5,1,65,45.5,0.7,to go,mobile,F,True,1146.0
+alpha,alpha012994,2023-05-31 18:53:00,coffee,Iced Latte,0.25,65,19.5,1,65,45.5,0.7,to go,mobile,M,False,
+alpha,alpha013143,2023-06-02 10:34:00,coffee,Iced Latte,0.25,65,19.5,1,65,45.5,0.7,eat in,mobile,M,False,
+beta,beta018501,2023-06-02 15:34:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,cash,F,True,305.0
+beta,beta018502,2023-06-02 15:35:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,eat in,mobile,F,True,1055.0
+beta,beta018513,2023-06-02 16:18:00,tea,Jasmine Tea,0.25,55,11.0,1,55,44.0,0.8,to go,credit card,M,False,
+beta,beta018537,2023-06-03 12:50:00,smoothie,Strawberry Smoothie,0.25,85,25.5,1,85,59.5,0.7,eat in,mobile,M,True,845.0
+alpha,alpha013248,2023-06-03 18:32:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,to go,credit card,F,False,
+beta,beta018715,2023-06-07 08:26:00,tea,Bubble Tea,1.0,70,17.5,1,70,52.5,0.75,eat in,mobile,M,True,1182.0
+alpha,alpha013619,2023-06-09 07:41:00,coffee,Americano,0.5,45,13.5,2,90,63.0,0.7,to go,mobile,M,False,
+alpha,alpha013724,2023-06-09 21:56:00,tea,Bubble Tea,0.75,70,17.5,2,140,105.0,0.75,delivery,mobile,M,False,
+alpha,alpha013726,2023-06-10 08:34:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,False,
+alpha,alpha013752,2023-06-10 16:39:00,coffee,Mocha,0.5,70,28.0,1,70,42.0,0.6,to go,mobile,M,True,1097.0
+alpha,alpha013783,2023-06-12 08:08:00,coffee,Mocha,0.5,70,28.0,1,70,42.0,0.6,to go,mobile,M,True,150.0
+alpha,alpha013786,2023-06-12 08:18:00,smoothie,Watermelon Smoothie,0.5,75,30.0,1,75,45.0,0.6,eat in,mobile,F,True,853.0
+beta,beta019140,2023-06-12 16:14:00,tea,Thai Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,mobile,M,True,51.0
+beta,beta019162,2023-06-13 07:38:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,M,True,1012.0
+alpha,alpha013941,2023-06-13 09:19:00,bakery,Muffin,,60,27.0,3,180,99.0,0.55,to go,mobile,F,False,
+alpha,alpha014089,2023-06-14 14:59:00,bakery,Donut,,40,12.0,4,160,112.0,0.7,to go,credit card,F,False,
+beta,beta019366,2023-06-15 12:26:00,bakery,Muffin,,60,27.0,3,180,99.0,0.55,to go,mobile,F,True,391.0
+alpha,alpha014240,2023-06-16 08:20:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,eat in,credit card,F,False,
+alpha,alpha014262,2023-06-16 10:42:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,credit card,M,False,
+beta,beta019506,2023-06-16 16:17:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,F,True,353.0
+beta,beta019510,2023-06-16 16:50:00,bakery,Muffin,,60,27.0,3,180,99.0,0.55,to go,mobile,M,True,1029.0
+beta,beta019674,2023-06-19 13:18:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,to go,credit card,F,True,1140.0
+alpha,alpha014680,2023-06-21 11:56:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,to go,cash,M,True,397.0
+alpha,alpha014681,2023-06-21 12:03:00,coffee,Americano,1.0,45,13.5,4,180,126.0,0.7,to go,mobile,M,False,
+beta,beta019920,2023-06-21 18:12:00,smoothie,Strawberry Smoothie,0.25,85,25.5,1,85,59.5,0.7,delivery,credit card,F,True,935.0
+alpha,alpha014740,2023-06-21 21:45:00,coffee,Mocha,0.75,70,28.0,3,210,126.0,0.6,delivery,credit card,F,True,109.0
+beta,beta020202,2023-06-25 13:26:00,coffee,Iced Latte,0.75,65,19.5,2,130,91.0,0.7,eat in,credit card,F,True,244.0
+beta,beta020322,2023-06-26 19:48:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,mobile,M,False,
+alpha,alpha015163,2023-06-27 08:22:00,coffee,Iced Latte,0.25,65,19.5,1,65,45.5,0.7,to go,mobile,M,True,956.0
+alpha,alpha015196,2023-06-27 12:52:00,coffee,Iced Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,mobile,F,False,
+beta,beta020379,2023-06-27 15:39:00,coffee,Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,mobile,M,False,
+beta,beta020411,2023-06-27 18:40:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,F,False,
+beta,beta020498,2023-06-28 17:44:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,credit card,F,True,1231.0
+alpha,alpha015364,2023-06-29 09:48:00,coffee,Americano,0.25,45,13.5,2,90,63.0,0.7,to go,cash,M,False,
+beta,beta020570,2023-06-29 16:02:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,delivery,mobile,F,True,346.0
+alpha,alpha015489,2023-06-30 10:43:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,F,False,
+alpha,alpha015508,2023-06-30 12:49:00,tea,Green Tea,1.0,65,19.5,1,65,45.5,0.7,to go,credit card,F,False,
+beta,beta020655,2023-06-30 15:25:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,M,False,
+beta,beta020681,2023-06-30 19:06:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,M,True,1097.0
+beta,beta020709,2023-07-01 12:25:00,tea,Thai Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,mobile,M,False,
+beta,beta020752,2023-07-02 08:43:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,mobile,M,True,839.0
+alpha,alpha015666,2023-07-03 08:20:00,coffee,Mocha Cold Brew,0.25,165,74.25,1,165,90.75,0.55,delivery,mobile,F,False,
+alpha,alpha015728,2023-07-03 13:09:00,tea,Yuzu Tea,1.0,70,24.5,1,70,45.5,0.65,to go,mobile,M,False,
+beta,beta020900,2023-07-04 09:44:00,coffee,Mocha Cold Brew,0.5,165,74.25,3,495,272.25,0.55,eat in,mobile,M,True,943.0
+alpha,alpha015843,2023-07-04 10:48:00,tea,Green Tea,0.25,65,19.5,2,130,91.0,0.7,eat in,mobile,F,False,
+alpha,alpha015848,2023-07-04 10:58:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,to go,mobile,M,False,
+beta,beta020969,2023-07-04 17:49:00,bakery,Cookie,,85,29.75,10,850,552.5,0.65,delivery,mobile,M,True,306.0
+beta,beta021010,2023-07-05 10:57:00,coffee,Nitro Flat White,0.25,155,69.75,1,155,85.25,0.55,eat in,mobile,F,True,417.0
+alpha,alpha015971,2023-07-05 15:30:00,smoothie,Watermelon Smoothie,0.0,75,30.0,3,225,135.0,0.6,to go,credit card,F,False,
+alpha,alpha015977,2023-07-05 15:43:00,smoothie,Kiwi Smoothie,0.25,90,40.5,2,180,99.0,0.55,to go,mobile,F,False,
+alpha,alpha016025,2023-07-06 08:45:00,coffee,Iced Latte,0.5,65,19.5,2,130,91.0,0.7,delivery,credit card,F,False,
+alpha,alpha016379,2023-07-10 14:36:00,tea,Yuzu Tea,0.75,70,24.5,2,140,91.0,0.65,to go,cash,F,False,
+alpha,alpha016405,2023-07-10 16:35:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,credit card,M,False,
+beta,beta021495,2023-07-11 12:24:00,tea,Bubble Tea,0.25,70,17.5,6,420,315.0,0.75,delivery,mobile,F,True,57.0
+alpha,alpha016498,2023-07-11 13:45:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,mobile,F,False,
+alpha,alpha016681,2023-07-13 10:41:00,tea,Black Tea,0.25,45,9.0,1,45,36.0,0.8,delivery,credit card,F,False,
+alpha,alpha016750,2023-07-14 07:08:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,F,False,
+alpha,alpha016795,2023-07-14 13:27:00,coffee,Nitro Flat White,0.75,155,69.75,3,465,255.75,0.55,to go,mobile,F,False,
+alpha,alpha016836,2023-07-14 17:46:00,coffee,Cappuccino,0.25,75,26.25,1,75,48.75,0.65,to go,credit card,M,True,844.0
+beta,beta021833,2023-07-15 15:39:00,coffee,Mocha,0.5,70,28.0,2,140,84.0,0.6,to go,mobile,F,True,891.0
+beta,beta021946,2023-07-17 12:56:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,delivery,mobile,F,True,978.0
+beta,beta021972,2023-07-17 16:49:00,smoothie,Watermelon Smoothie,0.5,75,30.0,3,225,135.0,0.6,to go,mobile,F,True,450.0
+alpha,alpha017063,2023-07-18 08:33:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,F,False,
+alpha,alpha017191,2023-07-19 11:22:00,coffee,Iced Americano,0.25,45,13.5,1,45,31.5,0.7,delivery,mobile,M,False,
+beta,beta022155,2023-07-20 08:28:00,coffee,Latte,0.5,65,26.0,1,65,39.0,0.6,delivery,mobile,F,True,1163.0
+beta,beta022196,2023-07-20 13:48:00,tea,Thai Tea,0.5,70,17.5,2,140,105.0,0.75,to go,credit card,M,False,
+beta,beta022199,2023-07-20 14:38:00,smoothie,Mango Smoothie,1.0,90,31.5,1,90,58.5,0.65,to go,mobile,F,True,142.0
+beta,beta022204,2023-07-20 15:15:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,delivery,mobile,F,False,
+beta,beta022352,2023-07-21 19:00:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,F,False,
+beta,beta022369,2023-07-22 09:55:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,965.0
+beta,beta022477,2023-07-24 10:22:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,161.0
+beta,beta022576,2023-07-24 21:22:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,credit card,F,True,171.0
+beta,beta022623,2023-07-25 12:08:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,to go,mobile,M,True,956.0
+beta,beta022634,2023-07-25 13:11:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,to go,mobile,F,True,347.0
+alpha,alpha017886,2023-07-27 10:01:00,coffee,Cappuccino,0.0,75,26.25,1,75,48.75,0.65,to go,mobile,M,False,
+alpha,alpha017917,2023-07-27 13:53:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,delivery,mobile,F,False,
+alpha,alpha018002,2023-07-28 14:18:00,coffee,Iced Americano,0.5,45,13.5,1,45,31.5,0.7,to go,cash,F,True,903.0
+beta,beta022884,2023-07-28 15:00:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,mobile,F,True,389.0
+beta,beta022945,2023-07-30 08:21:00,coffee,Mocha,0.5,70,28.0,2,140,84.0,0.6,to go,mobile,F,True,203.0
+alpha,alpha018131,2023-07-31 12:58:00,coffee,Iced Latte,0.75,65,19.5,1,65,45.5,0.7,eat in,credit card,F,False,
+alpha,alpha018148,2023-07-31 15:09:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,mobile,M,True,997.0
+alpha,alpha018184,2023-08-01 10:59:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,to go,credit card,F,False,
+alpha,alpha018348,2023-08-03 15:12:00,bakery,Cookie,,85,29.75,4,340,221.0,0.65,to go,credit card,F,False,
+beta,beta023182,2023-08-03 16:45:00,tea,Jasmine Tea,0.5,55,11.0,3,165,132.0,0.8,to go,mobile,F,True,552.0
+alpha,alpha018569,2023-08-06 09:57:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,F,False,
+alpha,alpha018573,2023-08-06 13:57:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,M,False,
+alpha,alpha018734,2023-08-08 09:33:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,eat in,credit card,M,False,
+beta,beta023868,2023-08-08 13:21:00,smoothie,Mango Smoothie,0.5,90,31.5,1,90,58.5,0.65,delivery,mobile,F,True,1027.0
+beta,beta024129,2023-08-09 19:26:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,credit card,F,True,1357.0
+alpha,alpha019014,2023-08-10 15:20:00,coffee,Espresso,1.0,55,19.25,1,55,35.75,0.65,eat in,credit card,F,False,
+beta,beta024284,2023-08-11 08:17:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,delivery,mobile,F,True,1098.0
+beta,beta024299,2023-08-11 09:25:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,True,1000.0
+beta,beta024347,2023-08-11 12:20:00,coffee,Latte,0.75,65,26.0,2,130,78.0,0.6,delivery,gift card,F,True,1067.0
+beta,beta024394,2023-08-11 14:45:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,cash,F,False,
+beta,beta024437,2023-08-11 16:54:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,M,True,441.0
+alpha,alpha019158,2023-08-11 18:06:00,smoothie,Mango Smoothie,0.75,90,31.5,2,180,117.0,0.65,delivery,credit card,F,False,
+alpha,alpha019260,2023-08-14 15:31:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,F,False,
+beta,beta024687,2023-08-15 12:39:00,tea,Bubble Tea,0.5,70,17.5,2,140,105.0,0.75,to go,mobile,M,True,1234.0
+alpha,alpha019364,2023-08-15 17:43:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,eat in,credit card,M,True,22.0
+beta,beta024771,2023-08-15 20:21:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,credit card,M,True,283.0
+alpha,alpha019379,2023-08-16 07:00:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,to go,gift card,F,False,
+alpha,alpha019448,2023-08-16 17:24:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,credit card,F,False,
+alpha,alpha019646,2023-08-18 12:37:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,delivery,credit card,F,True,1295.0
+beta,beta025194,2023-08-18 14:05:00,tea,Jasmine Tea,0.25,55,11.0,1,55,44.0,0.8,eat in,mobile,M,True,292.0
+beta,beta025338,2023-08-19 15:46:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,mobile,M,True,1062.0
+alpha,alpha019797,2023-08-20 16:54:00,coffee,Iced Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,credit card,M,True,1025.0
+alpha,alpha019798,2023-08-20 19:53:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,mobile,M,False,
+alpha,alpha019858,2023-08-21 14:08:00,tea,Bubble Tea,0.5,70,17.5,3,210,157.5,0.75,to go,credit card,M,False,
+alpha,alpha019943,2023-08-22 10:53:00,coffee,Iced Latte,0.5,65,19.5,1,65,45.5,0.7,to go,mobile,F,False,
+beta,beta025944,2023-08-23 18:53:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,True,131.0
+beta,beta025968,2023-08-24 08:14:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+alpha,alpha020135,2023-08-24 09:40:00,coffee,Iced Latte,0.75,65,19.5,1,65,45.5,0.7,eat in,credit card,M,False,
+beta,beta026045,2023-08-24 16:19:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,gift card,M,False,
+beta,beta026269,2023-08-25 18:06:00,tea,Yuzu Tea,0.25,70,24.5,4,280,182.0,0.65,to go,mobile,F,True,303.0
+beta,beta026406,2023-08-27 07:49:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,True,360.0
+alpha,alpha020469,2023-08-28 13:58:00,smoothie,Mango Smoothie,0.25,90,31.5,3,270,175.5,0.65,to go,mobile,M,False,
+beta,beta026646,2023-08-29 09:12:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,1266.0
+alpha,alpha020582,2023-08-29 10:54:00,smoothie,Mango Smoothie,0.25,90,31.5,1,90,58.5,0.65,eat in,mobile,M,True,368.0
+alpha,alpha020658,2023-08-29 18:49:00,coffee,Cappuccino,0.5,75,26.25,1,75,48.75,0.65,to go,credit card,F,True,303.0
+alpha,alpha020700,2023-08-30 12:43:00,coffee,Iced Latte,0.0,65,19.5,1,65,45.5,0.7,eat in,mobile,F,False,
+beta,beta026979,2023-08-31 09:52:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,True,472.0
+beta,beta027028,2023-08-31 13:46:00,tea,Bubble Tea,0.0,70,17.5,2,140,105.0,0.75,to go,cash,F,False,
+alpha,alpha020848,2023-08-31 16:52:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,to go,mobile,M,False,
+alpha,alpha020959,2023-09-01 15:08:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,to go,mobile,M,True,268.0
+beta,beta027377,2023-09-02 14:30:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,to go,mobile,F,True,209.0
+beta,beta027584,2023-09-04 16:00:00,tea,Thai Tea,0.25,70,17.5,3,210,157.5,0.75,to go,mobile,F,True,1192.0
+alpha,alpha021249,2023-09-05 08:43:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,to go,credit card,F,False,
+alpha,alpha021553,2023-09-07 19:13:00,coffee,Mocha Cold Brew,0.5,165,74.25,1,165,90.75,0.55,to go,credit card,M,False,
+beta,beta028202,2023-09-08 12:23:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,mobile,F,True,1265.0
+alpha,alpha021704,2023-09-08 18:00:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,F,False,
+alpha,alpha021737,2023-09-09 08:00:00,smoothie,Mango Smoothie,0.25,90,31.5,2,180,117.0,0.65,to go,credit card,F,True,606.0
+alpha,alpha021921,2023-09-12 08:56:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,False,
+beta,beta028689,2023-09-12 14:48:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,to go,mobile,M,False,
+beta,beta028780,2023-09-13 09:32:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,918.0
+alpha,alpha022116,2023-09-14 08:21:00,coffee,Mocha,0.5,70,28.0,3,210,126.0,0.6,eat in,mobile,M,False,
+alpha,alpha022154,2023-09-14 11:47:00,smoothie,Watermelon Smoothie,0.5,75,30.0,3,225,135.0,0.6,eat in,credit card,M,False,
+alpha,alpha022251,2023-09-15 08:34:00,coffee,Nitro Flat White,1.0,155,69.75,1,155,85.25,0.55,to go,mobile,M,True,1173.0
+beta,beta029134,2023-09-15 13:33:00,tea,Green Tea,0.25,65,19.5,2,130,91.0,0.7,delivery,mobile,F,False,
+alpha,alpha022298,2023-09-15 14:26:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,eat in,mobile,F,False,
+alpha,alpha022354,2023-09-16 07:39:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,mobile,F,False,
+beta,beta029258,2023-09-16 10:08:00,coffee,Americano,0.5,45,13.5,3,135,94.5,0.7,delivery,mobile,M,True,316.0
+beta,beta029578,2023-09-18 19:10:00,coffee,Latte,0.75,65,26.0,1,65,39.0,0.6,eat in,mobile,F,True,303.0
+beta,beta029814,2023-09-20 14:04:00,tea,Green Tea,0.25,65,19.5,3,195,136.5,0.7,to go,cash,F,False,
+beta,beta029879,2023-09-21 07:35:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,eat in,credit card,F,True,1312.0
+beta,beta029904,2023-09-21 10:02:00,tea,Thai Tea,0.5,70,17.5,3,210,157.5,0.75,eat in,mobile,F,True,1049.0
+beta,beta030031,2023-09-22 08:33:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,494.0
+alpha,alpha022953,2023-09-22 13:40:00,tea,Bubble Tea,0.5,70,17.5,2,140,105.0,0.75,delivery,credit card,F,False,
+alpha,alpha023000,2023-09-22 17:10:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,mobile,F,False,
+alpha,alpha023013,2023-09-22 18:12:00,coffee,Nitro Flat White,0.75,155,69.75,2,310,170.5,0.55,to go,cash,F,False,
+beta,beta030218,2023-09-22 19:53:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,True,495.0
+alpha,alpha023035,2023-09-22 21:19:00,tea,Thai Tea,1.0,70,17.5,1,70,52.5,0.75,eat in,credit card,M,False,
+beta,beta030437,2023-09-25 10:17:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,361.0
+alpha,alpha023200,2023-09-25 16:31:00,coffee,Americano,0.5,45,13.5,1,45,31.5,0.7,to go,credit card,F,False,
+beta,beta030587,2023-09-26 10:04:00,tea,Green Tea,0.5,65,19.5,1,65,45.5,0.7,to go,mobile,F,True,924.0
+alpha,alpha023266,2023-09-26 10:10:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,eat in,credit card,F,True,1271.0
+alpha,alpha023299,2023-09-26 12:56:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,credit card,F,False,
+beta,beta030671,2023-09-26 16:48:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,mobile,F,True,1303.0
+alpha,alpha023387,2023-09-27 09:25:00,coffee,Nitro Flat White,0.25,155,69.75,2,310,170.5,0.55,eat in,credit card,F,False,
+beta,beta030918,2023-09-28 15:11:00,coffee,Mocha,0.25,70,28.0,3,210,126.0,0.6,eat in,mobile,F,False,
+alpha,alpha023568,2023-09-28 17:04:00,tea,Yuzu Tea,0.25,70,24.5,2,140,91.0,0.65,delivery,credit card,M,True,934.0
+beta,beta030987,2023-09-29 07:55:00,tea,Jasmine Tea,0.0,55,11.0,3,165,132.0,0.8,to go,mobile,F,True,909.0
+beta,beta031050,2023-09-29 12:33:00,tea,Green Tea,0.5,65,19.5,1,65,45.5,0.7,to go,mobile,F,True,263.0
+alpha,alpha023654,2023-09-29 15:05:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,to go,credit card,F,False,
+beta,beta031147,2023-09-29 18:43:00,coffee,Americano,0.5,45,13.5,3,135,94.5,0.7,delivery,mobile,F,True,133.0
+beta,beta031336,2023-10-01 18:20:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,to go,mobile,F,True,474.0
+alpha,alpha023844,2023-10-02 14:31:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,to go,mobile,F,False,
+alpha,alpha023852,2023-10-02 15:12:00,coffee,Cappuccino,0.25,75,26.25,2,150,97.5,0.65,to go,credit card,F,False,
+alpha,alpha023859,2023-10-02 15:45:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,credit card,M,False,
+beta,beta031506,2023-10-02 16:13:00,coffee,Mocha,0.0,70,28.0,1,70,42.0,0.6,to go,gift card,F,True,1024.0
+alpha,alpha023926,2023-10-03 08:15:00,coffee,Nitro Flat White,0.0,155,69.75,1,155,85.25,0.55,to go,credit card,M,True,929.0
+beta,beta031587,2023-10-03 08:27:00,smoothie,Kiwi Smoothie,0.5,90,40.5,2,180,99.0,0.55,eat in,cash,M,False,
+alpha,alpha023934,2023-10-03 08:39:00,tea,Green Tea,0.5,65,19.5,3,195,136.5,0.7,to go,credit card,M,False,
+alpha,alpha024040,2023-10-03 18:57:00,coffee,Iced Americano,0.5,45,13.5,3,135,94.5,0.7,delivery,credit card,M,False,
+beta,beta031937,2023-10-05 15:31:00,smoothie,Strawberry Smoothie,1.0,85,25.5,2,170,119.0,0.7,eat in,mobile,F,True,925.0
+alpha,alpha024251,2023-10-05 16:59:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,mobile,M,False,
+beta,beta031981,2023-10-05 19:07:00,tea,Yuzu Tea,0.25,70,24.5,3,210,136.5,0.65,eat in,credit card,F,True,611.0
+alpha,alpha024423,2023-10-07 13:28:00,coffee,Espresso,1.0,55,19.25,1,55,35.75,0.65,eat in,mobile,F,False,
+beta,beta032360,2023-10-09 07:56:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,delivery,cash,F,True,625.0
+alpha,alpha024593,2023-10-09 18:33:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,to go,mobile,M,True,1136.0
+alpha,alpha024668,2023-10-10 13:01:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,eat in,credit card,M,False,
+beta,beta032655,2023-10-10 19:56:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,eat in,mobile,M,False,
+beta,beta032678,2023-10-11 09:21:00,coffee,Mocha Cold Brew,0.25,165,74.25,3,495,272.25,0.55,to go,mobile,F,False,
+beta,beta032709,2023-10-11 12:23:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,F,True,311.0
+beta,beta032858,2023-10-12 12:02:00,tea,Bubble Tea,1.0,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,1312.0
+beta,beta033067,2023-10-14 14:43:00,smoothie,Strawberry Smoothie,0.25,85,25.5,1,85,59.5,0.7,eat in,cash,F,False,
+beta,beta033090,2023-10-14 17:19:00,coffee,Iced Latte,0.5,65,19.5,1,65,45.5,0.7,eat in,mobile,M,True,434.0
+beta,beta033140,2023-10-15 14:21:00,coffee,Cappuccino,0.25,75,26.25,1,75,48.75,0.65,to go,mobile,M,False,
+alpha,alpha025060,2023-10-16 07:46:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,eat in,credit card,M,False,
+beta,beta033297,2023-10-16 15:17:00,coffee,Nitro Flat White,0.75,155,69.75,1,155,85.25,0.55,to go,mobile,M,True,205.0
+alpha,alpha025167,2023-10-16 16:57:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,credit card,F,False,
+beta,beta033365,2023-10-16 21:19:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,1467.0
+beta,beta033644,2023-10-18 15:24:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,credit card,F,False,
+alpha,alpha025484,2023-10-19 14:09:00,coffee,Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,credit card,F,False,
+beta,beta033812,2023-10-19 15:27:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,credit card,M,True,943.0
+alpha,alpha025508,2023-10-19 17:16:00,coffee,Americano,0.75,45,13.5,2,90,63.0,0.7,to go,credit card,F,True,545.0
+beta,beta033846,2023-10-19 17:23:00,tea,Yuzu Tea,0.5,70,24.5,2,140,91.0,0.65,delivery,credit card,F,True,1099.0
+alpha,alpha025576,2023-10-20 11:39:00,coffee,Mocha,0.25,70,28.0,3,210,126.0,0.6,to go,credit card,F,False,
+beta,beta034272,2023-10-23 19:59:00,smoothie,Strawberry Smoothie,0.5,85,25.5,1,85,59.5,0.7,to go,mobile,F,True,469.0
+alpha,alpha025898,2023-10-24 15:23:00,tea,Yuzu Tea,0.25,70,24.5,3,210,136.5,0.65,delivery,mobile,M,True,376.0
+alpha,alpha026101,2023-10-26 12:56:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,delivery,mobile,M,True,680.0
+alpha,alpha026176,2023-10-26 20:02:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,eat in,credit card,M,False,
+alpha,alpha026293,2023-10-27 16:23:00,tea,Thai Tea,1.0,70,17.5,2,140,105.0,0.75,to go,credit card,M,True,350.0
+beta,beta034976,2023-10-28 19:29:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,credit card,F,True,334.0
+alpha,alpha026388,2023-10-29 15:08:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,mobile,F,False,
+beta,beta035347,2023-10-31 14:32:00,tea,Green Tea,0.25,65,19.5,1,65,45.5,0.7,to go,cash,F,True,1256.0
+alpha,alpha026648,2023-10-31 18:52:00,bakery,Cookie,,85,29.75,5,425,276.25,0.65,to go,credit card,F,False,
+alpha,alpha026774,2023-11-02 10:48:00,coffee,Iced Americano,1.0,45,13.5,1,45,31.5,0.7,to go,mobile,F,False,
+beta,beta035602,2023-11-02 12:47:00,tea,Jasmine Tea,0.25,55,11.0,1,55,44.0,0.8,delivery,mobile,F,True,1271.0
+alpha,alpha026793,2023-11-02 13:25:00,smoothie,Mango Smoothie,0.0,90,31.5,1,90,58.5,0.65,eat in,mobile,M,False,
+alpha,alpha026878,2023-11-03 08:48:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,False,
+alpha,alpha026912,2023-11-03 11:55:00,coffee,Iced Latte,0.5,65,19.5,3,195,136.5,0.7,delivery,credit card,M,False,
+alpha,alpha027077,2023-11-05 16:32:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,credit card,F,False,
+alpha,alpha027131,2023-11-06 12:54:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,False,
+beta,beta036267,2023-11-07 15:52:00,tea,Jasmine Tea,0.0,55,11.0,3,165,132.0,0.8,eat in,mobile,M,True,1264.0
+beta,beta036539,2023-11-09 16:47:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,to go,mobile,M,True,217.0
+beta,beta036688,2023-11-10 16:00:00,coffee,Iced Latte,0.5,65,19.5,1,65,45.5,0.7,eat in,mobile,F,True,1292.0
+beta,beta036702,2023-11-10 17:04:00,tea,Thai Tea,0.75,70,17.5,3,210,157.5,0.75,to go,gift card,F,True,509.0
+beta,beta036752,2023-11-11 09:56:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,to go,mobile,F,True,1000.0
+beta,beta036805,2023-11-11 16:49:00,smoothie,Strawberry Smoothie,0.5,85,25.5,1,85,59.5,0.7,to go,credit card,F,True,1440.0
+alpha,alpha027701,2023-11-11 16:57:00,coffee,Mocha,0.25,70,28.0,1,70,42.0,0.6,delivery,mobile,F,False,
+beta,beta036857,2023-11-12 14:30:00,tea,Yuzu Tea,0.75,70,24.5,2,140,91.0,0.65,to go,mobile,M,True,915.0
+beta,beta037109,2023-11-14 10:27:00,tea,Bubble Tea,0.25,70,17.5,2,140,105.0,0.75,to go,credit card,F,True,478.0
+beta,beta037190,2023-11-14 16:42:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,to go,mobile,F,True,1396.0
+alpha,alpha028012,2023-11-15 10:57:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,cash,F,False,
+alpha,alpha028035,2023-11-15 15:18:00,smoothie,Mango Smoothie,0.5,90,31.5,1,90,58.5,0.65,to go,mobile,F,True,1360.0
+alpha,alpha028077,2023-11-16 08:40:00,coffee,Nitro Flat White,0.75,155,69.75,1,155,85.25,0.55,to go,mobile,M,False,
+beta,beta037613,2023-11-17 08:43:00,coffee,Espresso,0.5,55,19.25,1,55,35.75,0.65,delivery,mobile,M,True,697.0
+alpha,alpha028284,2023-11-17 16:30:00,coffee,Latte,0.5,65,26.0,1,65,39.0,0.6,to go,mobile,M,False,
+beta,beta037755,2023-11-17 17:16:00,coffee,Latte,0.5,65,26.0,1,65,39.0,0.6,to go,mobile,M,True,1052.0
+alpha,alpha028304,2023-11-17 19:35:00,coffee,Iced Americano,0.5,45,13.5,3,135,94.5,0.7,delivery,cash,M,False,
+alpha,alpha028358,2023-11-19 14:50:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,delivery,credit card,M,True,845.0
+alpha,alpha028361,2023-11-19 15:52:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,credit card,F,True,183.0
+alpha,alpha028413,2023-11-20 10:34:00,smoothie,Mango Smoothie,1.0,90,31.5,3,270,175.5,0.65,to go,credit card,F,True,415.0
+beta,beta038372,2023-11-22 17:14:00,coffee,Iced Latte,1.0,65,19.5,5,325,227.5,0.7,to go,mobile,F,False,
+beta,beta038399,2023-11-22 21:25:00,coffee,Iced Latte,0.75,65,19.5,1,65,45.5,0.7,to go,mobile,F,True,159.0
+beta,beta038483,2023-11-23 15:03:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,1541.0
+beta,beta038730,2023-11-24 19:17:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,M,True,618.0
+beta,beta038872,2023-11-26 18:18:00,smoothie,Watermelon Smoothie,0.75,75,30.0,1,75,45.0,0.6,to go,mobile,F,False,
+beta,beta039104,2023-11-28 09:33:00,tea,Black Tea,0.25,45,9.0,1,45,36.0,0.8,to go,cash,M,True,1104.0
+alpha,alpha029256,2023-11-28 13:01:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,F,False,
+alpha,alpha029261,2023-11-28 13:29:00,tea,Green Tea,1.0,65,19.5,3,195,136.5,0.7,delivery,credit card,M,False,
+alpha,alpha029380,2023-11-29 14:38:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,to go,cash,F,True,1066.0
+beta,beta039444,2023-11-30 10:48:00,smoothie,Strawberry Smoothie,0.5,85,25.5,1,85,59.5,0.7,eat in,mobile,F,True,1113.0
+alpha,alpha029492,2023-11-30 14:41:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,to go,credit card,M,True,1393.0
+beta,beta039496,2023-11-30 14:48:00,smoothie,Strawberry Smoothie,0.5,85,25.5,1,85,59.5,0.7,eat in,mobile,F,True,539.0
+alpha,alpha029501,2023-11-30 15:23:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,to go,cash,F,True,737.0
+alpha,alpha029645,2023-12-01 15:15:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+beta,beta039671,2023-12-01 15:32:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,1436.0
+alpha,alpha029668,2023-12-01 16:49:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,to go,credit card,F,False,
+alpha,alpha029750,2023-12-02 19:50:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,credit card,F,True,1624.0
+alpha,alpha030054,2023-12-06 19:07:00,coffee,Mocha,0.25,70,28.0,2,140,84.0,0.6,delivery,credit card,F,True,1497.0
+beta,beta040118,2023-12-07 07:06:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,184.0
+beta,beta040152,2023-12-07 12:02:00,coffee,Iced Latte,0.0,65,19.5,1,65,45.5,0.7,to go,cash,M,True,35.0
+alpha,alpha030278,2023-12-08 14:35:00,smoothie,Watermelon Smoothie,0.25,75,30.0,3,225,135.0,0.6,to go,credit card,F,True,972.0
+beta,beta040301,2023-12-08 15:02:00,coffee,Espresso,0.5,55,19.25,3,165,107.25,0.65,to go,mobile,F,True,347.0
+beta,beta040339,2023-12-08 17:57:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,credit card,M,True,594.0
+beta,beta040370,2023-12-08 21:52:00,coffee,Iced Latte,0.5,65,19.5,1,65,45.5,0.7,delivery,mobile,M,False,
+alpha,alpha030511,2023-12-12 13:58:00,coffee,Mocha Cold Brew,0.5,165,74.25,1,165,90.75,0.55,to go,credit card,F,False,
+beta,beta040621,2023-12-13 10:16:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,to go,mobile,F,True,1309.0
+beta,beta040657,2023-12-13 12:58:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,credit card,M,False,
+beta,beta040823,2023-12-14 18:16:00,coffee,Mocha,0.25,70,28.0,4,280,168.0,0.6,to go,mobile,F,True,1308.0
+beta,beta040876,2023-12-15 10:19:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,to go,mobile,F,True,1426.0
+beta,beta040971,2023-12-15 18:56:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,903.0
+beta,beta040973,2023-12-15 19:11:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,1163.0
+alpha,alpha031085,2023-12-18 11:41:00,smoothie,Kiwi Smoothie,1.0,90,40.5,2,180,99.0,0.55,to go,credit card,M,False,
+alpha,alpha031104,2023-12-18 13:28:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,M,True,836.0
+alpha,alpha031108,2023-12-18 13:50:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,F,False,
+alpha,alpha031126,2023-12-18 15:19:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,M,False,
+beta,beta041208,2023-12-18 17:17:00,tea,Black Tea,0.75,45,9.0,2,90,72.0,0.8,delivery,mobile,M,True,802.0
+alpha,alpha031179,2023-12-18 20:21:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,delivery,mobile,F,False,
+beta,beta041239,2023-12-19 07:42:00,coffee,Iced Latte,0.25,65,19.5,1,65,45.5,0.7,delivery,mobile,F,True,1127.0
+alpha,alpha031278,2023-12-19 15:45:00,tea,Bubble Tea,0.75,70,17.5,2,140,105.0,0.75,delivery,credit card,M,True,843.0
+beta,beta041351,2023-12-19 19:25:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,mobile,F,False,
+alpha,alpha031328,2023-12-19 20:46:00,coffee,Iced Americano,0.0,45,13.5,1,45,31.5,0.7,to go,mobile,F,False,
+beta,beta041535,2023-12-21 16:37:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,eat in,mobile,M,False,
+alpha,alpha031691,2023-12-23 10:45:00,smoothie,Kiwi Smoothie,0.75,90,40.5,1,90,49.5,0.55,eat in,credit card,F,False,
+beta,beta041807,2023-12-24 18:24:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,mobile,F,True,1520.0
+alpha,alpha031847,2023-12-25 16:24:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,to go,credit card,M,False,
+beta,beta041942,2023-12-25 18:56:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,mobile,M,True,290.0
+alpha,alpha031900,2023-12-26 07:16:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,eat in,mobile,F,False,
+alpha,alpha031959,2023-12-26 13:47:00,smoothie,Mango Smoothie,0.0,90,31.5,3,270,175.5,0.65,to go,mobile,F,False,
+beta,beta042110,2023-12-27 09:52:00,coffee,Americano,1.0,45,13.5,1,45,31.5,0.7,to go,mobile,M,False,
+beta,beta042215,2023-12-28 11:50:00,smoothie,Strawberry Smoothie,0.75,85,25.5,1,85,59.5,0.7,eat in,mobile,M,True,32.0
+beta,beta042296,2023-12-28 20:05:00,smoothie,Kiwi Smoothie,0.75,90,40.5,2,180,99.0,0.55,to go,mobile,F,True,735.0
+alpha,alpha032262,2023-12-29 09:10:00,smoothie,Mango Smoothie,0.75,90,31.5,3,270,175.5,0.65,to go,credit card,M,True,457.0
+alpha,alpha032306,2023-12-29 15:35:00,coffee,Iced Latte,0.75,65,19.5,7,455,318.5,0.7,to go,credit card,F,False,
+alpha,alpha032323,2023-12-29 18:29:00,tea,Green Tea,0.0,65,19.5,3,195,136.5,0.7,to go,mobile,F,True,1098.0
+alpha,alpha032383,2023-12-31 17:03:00,tea,Green Tea,0.25,65,19.5,5,325,227.5,0.7,delivery,credit card,F,True,582.0
+alpha,alpha032397,2024-01-01 09:15:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,credit card,F,False,
+beta,beta042498,2024-01-02 11:31:00,tea,Jasmine Tea,0.75,50,10.0,2,100,80.0,0.8,to go,mobile,M,True,848.0
+beta,beta042583,2024-01-02 18:24:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,M,True,1695.0
+alpha,alpha032770,2024-01-04 18:19:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,False,
+alpha,alpha032970,2024-01-08 08:09:00,tea,Thai Tea,0.5,70,17.5,4,280,210.0,0.75,delivery,mobile,M,True,19.0
+beta,beta043652,2024-01-09 10:02:00,tea,Black Tea,0.75,40,8.0,1,40,32.0,0.8,eat in,mobile,F,True,881.0
+beta,beta043674,2024-01-09 12:05:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,eat in,mobile,F,True,1669.0
+beta,beta043684,2024-01-09 12:36:00,tea,Green Tea,1.0,65,24.7,1,65,40.3,0.62,to go,mobile,F,True,1652.0
+alpha,alpha033295,2024-01-10 16:48:00,coffee,Nitro Flat White,0.0,155,74.39999999999999,3,465,241.8,0.52,to go,credit card,F,False,
+alpha,alpha033367,2024-01-11 13:29:00,coffee,Mocha,0.0,70,30.1,5,350,199.50000000000003,0.5700000000000001,to go,cash,M,True,25.0
+beta,beta044130,2024-01-11 18:30:00,tea,Bubble Tea,0.5,70,17.5,3,210,157.5,0.75,eat in,credit card,F,True,891.0
+alpha,alpha033441,2024-01-12 08:37:00,coffee,Latte,0.25,65,27.95,2,130,74.1,0.57,to go,credit card,F,True,69.0
+alpha,alpha033464,2024-01-12 11:48:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,1,155,80.60000000000001,0.52,to go,mobile,M,False,
+alpha,alpha033497,2024-01-12 15:35:00,coffee,Mocha,0.25,70,30.1,6,420,239.40000000000003,0.5700000000000001,to go,credit card,F,True,1679.0
+alpha,alpha033551,2024-01-13 06:20:00,tea,Yuzu Tea,0.0,70,24.5,1,70,45.5,0.65,eat in,credit card,M,True,1644.0
+beta,beta044430,2024-01-15 08:37:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,delivery,gift card,F,False,
+alpha,alpha033613,2024-01-15 10:30:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,cash,F,False,
+beta,beta044596,2024-01-16 08:17:00,bakery,Cookie,,85,29.75,4,340,221.0,0.65,delivery,mobile,M,True,1658.0
+alpha,alpha033758,2024-01-16 09:42:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,mobile,F,False,
+beta,beta044696,2024-01-16 15:31:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,64.0
+beta,beta045237,2024-01-19 18:44:00,tea,Jasmine Tea,1.0,50,10.0,1,50,40.0,0.8,to go,mobile,F,False,
+beta,beta045314,2024-01-20 13:57:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,delivery,mobile,M,True,
+alpha,alpha034232,2024-01-20 20:36:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,gift card,M,False,
+beta,beta045428,2024-01-21 19:38:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,1682.0
+alpha,alpha034312,2024-01-22 13:31:00,coffee,Iced Latte,0.25,65,22.75,3,195,126.75,0.65,delivery,credit card,F,False,
+alpha,alpha034347,2024-01-22 16:16:00,coffee,Mocha,0.0,70,30.1,1,70,39.900000000000006,0.5700000000000001,to go,mobile,F,False,
+alpha,alpha034636,2024-01-25 11:37:00,tea,Black Tea,0.25,40,8.0,1,40,32.0,0.8,delivery,credit card,M,True,44.0
+beta,beta046205,2024-01-26 09:55:00,coffee,Latte,0.0,65,27.95,1,65,37.05,0.57,to go,mobile,M,True,1671.0
+alpha,alpha034762,2024-01-26 11:45:00,smoothie,Kiwi Smoothie,0.75,90,40.5,3,270,148.5,0.55,eat in,credit card,F,False,
+beta,beta046268,2024-01-26 13:33:00,tea,Jasmine Tea,0.25,50,10.0,1,50,40.0,0.8,to go,credit card,M,True,876.0
+beta,beta046301,2024-01-26 15:10:00,coffee,Cappuccino,1.0,75,27.75,2,150,94.5,0.63,eat in,mobile,F,True,41.0
+beta,beta046566,2024-01-29 08:30:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,False,
+beta,beta046612,2024-01-29 11:04:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,to go,mobile,F,True,865.0
+alpha,alpha034986,2024-01-29 16:11:00,bakery,Muffin,,60,27.0,3,180,99.0,0.55,eat in,mobile,M,True,39.0
+beta,beta046716,2024-01-29 17:26:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,863.0
+alpha,alpha035017,2024-01-29 19:24:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,3,465,241.8,0.52,delivery,credit card,F,False,
+beta,beta046775,2024-01-30 09:06:00,smoothie,Strawberry Smoothie,0.25,85,25.5,1,85,59.5,0.7,to go,mobile,F,True,1672.0
+alpha,alpha035042,2024-01-30 09:16:00,tea,Green Tea,0.75,65,24.7,2,130,80.6,0.62,eat in,mobile,M,True,876.0
+alpha,alpha035107,2024-01-30 16:11:00,coffee,Iced Americano,0.0,45,13.5,1,45,31.5,0.7,to go,cash,M,False,
+beta,beta046918,2024-01-30 17:31:00,coffee,Latte,0.5,65,27.95,1,65,37.05,0.57,to go,cash,M,True,1668.0
+beta,beta047093,2024-01-31 16:46:00,coffee,Mocha,0.5,70,30.1,1,70,39.900000000000006,0.5700000000000001,to go,mobile,F,True,874.0
+alpha,alpha035338,2024-02-01 19:06:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,to go,mobile,F,True,1769.0
+alpha,alpha035346,2024-02-01 20:43:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,878.0
+beta,beta047639,2024-02-04 12:33:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,M,True,1676.0
+alpha,alpha035605,2024-02-05 15:13:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,to go,mobile,F,True,912.0
+beta,beta047819,2024-02-05 15:18:00,tea,Jasmine Tea,0.75,50,10.0,1,50,40.0,0.8,to go,mobile,M,True,1753.0
+beta,beta047944,2024-02-06 09:33:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,delivery,mobile,F,True,
+beta,beta047954,2024-02-06 10:14:00,tea,Jasmine Tea,0.5,50,10.0,2,100,80.0,0.8,eat in,mobile,F,True,21.0
+beta,beta047973,2024-02-06 11:53:00,coffee,Iced Latte,0.75,65,22.75,3,195,126.75,0.65,to go,mobile,M,True,1680.0
+alpha,alpha035748,2024-02-06 17:03:00,tea,Green Tea,0.75,65,24.7,1,65,40.3,0.62,to go,cash,M,False,
+alpha,alpha035750,2024-02-06 17:30:00,coffee,Americano,0.25,45,14.4,1,45,30.6,0.68,to go,credit card,F,True,
+beta,beta048132,2024-02-07 10:35:00,tea,Green Tea,0.0,65,24.7,3,195,120.9,0.62,delivery,gift card,M,True,103.0
+alpha,alpha035931,2024-02-08 13:05:00,tea,Black Tea,0.25,40,8.0,2,80,64.0,0.8,delivery,credit card,F,True,1726.0
+alpha,alpha035947,2024-02-08 15:11:00,tea,Thai Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,credit card,M,True,32.0
+beta,beta048394,2024-02-08 17:09:00,coffee,Iced Americano,0.25,45,13.5,3,135,94.5,0.7,eat in,mobile,F,True,4.0
+beta,beta048443,2024-02-09 07:26:00,coffee,Mocha,0.75,70,30.1,1,70,39.900000000000006,0.5700000000000001,to go,mobile,F,True,863.0
+beta,beta048543,2024-02-09 13:50:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,credit card,F,True,125.0
+beta,beta048561,2024-02-09 15:25:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,M,True,
+beta,beta048851,2024-02-12 11:29:00,smoothie,Kiwi Smoothie,0.5,90,40.5,1,90,49.5,0.55,to go,mobile,F,False,
+beta,beta048966,2024-02-12 19:56:00,tea,Thai Tea,0.0,70,17.5,2,140,105.0,0.75,eat in,mobile,M,True,
+alpha,alpha036368,2024-02-13 10:24:00,coffee,Latte,0.25,65,27.95,3,195,111.15,0.57,eat in,mobile,F,False,
+alpha,alpha036469,2024-02-14 07:53:00,tea,Green Tea,0.5,65,24.7,3,195,120.9,0.62,eat in,mobile,M,False,
+alpha,alpha036482,2024-02-14 09:29:00,tea,Black Tea,0.25,40,8.0,1,40,32.0,0.8,delivery,cash,F,False,
+alpha,alpha036545,2024-02-14 17:47:00,coffee,Iced Americano,0.5,45,13.5,1,45,31.5,0.7,delivery,mobile,F,False,
+alpha,alpha036564,2024-02-15 08:17:00,coffee,Mocha,0.25,70,30.1,1,70,39.900000000000006,0.5700000000000001,delivery,credit card,F,False,
+beta,beta049380,2024-02-15 12:37:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,98.0
+beta,beta049394,2024-02-15 13:38:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,F,True,1709.0
+beta,beta049591,2024-02-16 16:56:00,tea,Green Tea,0.0,65,24.7,1,65,40.3,0.62,delivery,credit card,F,True,114.0
+alpha,alpha036751,2024-02-16 17:29:00,coffee,Iced Latte,0.25,65,22.75,1,65,42.25,0.65,to go,credit card,M,True,929.0
+alpha,alpha036767,2024-02-16 19:44:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,credit card,F,True,840.0
+beta,beta049784,2024-02-18 15:40:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,True,850.0
+alpha,alpha036978,2024-02-20 08:21:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,credit card,M,False,
+beta,beta050117,2024-02-20 14:36:00,smoothie,Mango Smoothie,0.0,90,31.5,1,90,58.5,0.65,to go,mobile,M,True,47.0
+alpha,alpha037109,2024-02-21 08:49:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,credit card,F,True,136.0
+alpha,alpha037254,2024-02-22 15:45:00,coffee,Iced Latte,0.5,65,22.75,1,65,42.25,0.65,delivery,mobile,M,True,1661.0
+beta,beta050507,2024-02-22 18:30:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,delivery,credit card,M,True,1728.0
+alpha,alpha037317,2024-02-23 09:02:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,credit card,F,True,46.0
+beta,beta050777,2024-02-25 09:59:00,tea,Jasmine Tea,0.5,50,10.0,1,50,40.0,0.8,eat in,mobile,F,True,856.0
+alpha,alpha037527,2024-02-26 15:59:00,bakery,Cookie,,85,29.75,2,170,110.5,0.65,to go,credit card,F,False,
+beta,beta051149,2024-02-28 15:10:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,credit card,M,True,1.0
+beta,beta051284,2024-02-29 12:41:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,F,True,66.0
+alpha,alpha037810,2024-02-29 16:00:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,90.0
+beta,beta051467,2024-03-01 10:39:00,tea,Green Tea,0.5,65,24.7,2,130,80.6,0.62,delivery,mobile,M,True,210.0
+alpha,alpha037917,2024-03-01 15:56:00,tea,Green Tea,0.75,65,24.7,1,65,40.3,0.62,to go,mobile,F,True,1034.0
+alpha,alpha037942,2024-03-01 17:50:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,cash,F,False,
+alpha,alpha037954,2024-03-01 19:33:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,delivery,credit card,M,True,56.0
+alpha,alpha038040,2024-03-04 08:41:00,coffee,Mocha Cold Brew,0.75,165,79.2,1,165,85.8,0.52,eat in,mobile,F,False,
+alpha,alpha038064,2024-03-04 10:18:00,tea,Jasmine Tea,0.25,50,10.0,1,50,40.0,0.8,to go,mobile,F,True,1700.0
+alpha,alpha038244,2024-03-05 14:50:00,coffee,Americano,1.0,45,14.4,1,45,30.6,0.68,to go,mobile,F,False,
+alpha,alpha038298,2024-03-05 19:45:00,coffee,Iced Americano,0.25,45,13.5,1,45,31.5,0.7,eat in,credit card,F,True,1665.0
+beta,beta052139,2024-03-06 09:29:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,2,310,161.20000000000002,0.52,eat in,mobile,F,True,1716.0
+alpha,alpha038353,2024-03-06 13:26:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,credit card,F,True,1757.0
+alpha,alpha038419,2024-03-07 09:09:00,tea,Green Tea,0.75,65,24.7,1,65,40.3,0.62,delivery,credit card,F,False,
+beta,beta052417,2024-03-07 19:24:00,tea,Jasmine Tea,0.5,50,10.0,1,50,40.0,0.8,delivery,mobile,F,True,1840.0
+alpha,alpha038515,2024-03-08 09:41:00,tea,Yuzu Tea,0.5,70,24.5,2,140,91.0,0.65,delivery,mobile,F,False,
+alpha,alpha038532,2024-03-08 11:20:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,delivery,mobile,F,False,
+beta,beta052513,2024-03-08 14:17:00,coffee,Mocha Cold Brew,0.0,165,79.2,1,165,85.8,0.52,to go,mobile,F,True,81.0
+beta,beta052616,2024-03-09 09:25:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,True,12.0
+alpha,alpha038837,2024-03-12 09:21:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,cash,M,False,
+beta,beta053108,2024-03-12 16:25:00,tea,Bubble Tea,0.0,70,17.5,3,210,157.5,0.75,eat in,credit card,M,True,137.0
+beta,beta053155,2024-03-13 07:43:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,mobile,M,True,980.0
+beta,beta053189,2024-03-13 10:52:00,tea,Jasmine Tea,0.25,50,10.0,1,50,40.0,0.8,eat in,mobile,M,True,1770.0
+beta,beta053310,2024-03-14 08:45:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,mobile,M,True,845.0
+alpha,alpha039067,2024-03-14 10:07:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,to go,credit card,F,True,927.0
+beta,beta053453,2024-03-15 09:03:00,bakery,Cookie,,85,29.75,2,170,110.5,0.65,eat in,mobile,F,True,1814.0
+beta,beta053660,2024-03-16 12:40:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,mobile,F,True,97.0
+beta,beta053750,2024-03-17 12:08:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+alpha,alpha039369,2024-03-18 13:44:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,to go,cash,F,True,162.0
+beta,beta053883,2024-03-18 14:49:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,10.0
+beta,beta053889,2024-03-18 15:10:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,935.0
+alpha,alpha039423,2024-03-18 18:14:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,credit card,F,True,1627.0
+beta,beta053963,2024-03-19 07:43:00,bakery,Croissant,,85,46.75000000000001,4,340,152.99999999999997,0.4499999999999999,to go,mobile,F,False,
+alpha,alpha039627,2024-03-20 18:11:00,coffee,Mocha Cold Brew,0.25,165,79.2,1,165,85.8,0.52,to go,mobile,M,True,949.0
+beta,beta054336,2024-03-20 18:33:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,delivery,mobile,F,True,172.0
+beta,beta054566,2024-03-22 09:45:00,coffee,Mocha Cold Brew,0.0,165,79.2,3,495,257.4,0.52,to go,mobile,F,True,899.0
+alpha,alpha039904,2024-03-23 19:41:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,1,155,80.60000000000001,0.52,to go,cash,F,False,
+beta,beta054827,2024-03-23 21:47:00,tea,Black Tea,0.75,40,8.0,1,40,32.0,0.8,eat in,credit card,M,True,1028.0
+beta,beta054854,2024-03-24 12:54:00,tea,Yuzu Tea,1.0,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,1648.0
+beta,beta054912,2024-03-25 08:37:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,to go,mobile,F,False,
+alpha,alpha040230,2024-03-27 14:04:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,M,False,
+alpha,alpha040307,2024-03-28 10:43:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,eat in,cash,F,False,
+beta,beta055527,2024-03-28 15:02:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,credit card,M,True,1032.0
+alpha,alpha040418,2024-03-29 10:37:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,F,False,
+alpha,alpha040588,2024-04-01 10:19:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,credit card,M,False,
+alpha,alpha040690,2024-04-02 08:35:00,smoothie,Watermelon Smoothie,0.5,75,30.0,2,150,90.0,0.6,eat in,mobile,M,True,185.0
+beta,beta056153,2024-04-02 11:27:00,smoothie,Strawberry Smoothie,0.25,85,25.5,1,85,59.5,0.7,to go,mobile,M,True,1651.0
+beta,beta056158,2024-04-02 12:00:00,tea,Jasmine Tea,0.5,50,10.0,3,150,120.0,0.8,to go,mobile,F,True,1679.0
+alpha,alpha041003,2024-04-05 09:00:00,coffee,Mocha Cold Brew,0.0,165,79.2,3,495,257.4,0.52,to go,credit card,F,True,969.0
+beta,beta056675,2024-04-05 12:54:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,mobile,F,True,951.0
+beta,beta056686,2024-04-05 13:38:00,smoothie,Watermelon Smoothie,0.25,75,30.0,3,225,135.0,0.6,to go,mobile,F,True,1010.0
+alpha,alpha041072,2024-04-05 15:46:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,credit card,M,True,1744.0
+alpha,alpha041104,2024-04-06 08:25:00,coffee,Espresso,0.25,55,20.35,1,55,34.65,0.63,to go,mobile,M,False,
+alpha,alpha041106,2024-04-06 09:22:00,coffee,Iced Americano,0.5,45,13.5,2,90,63.0,0.7,delivery,credit card,F,True,1082.0
+alpha,alpha041177,2024-04-08 13:40:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,mobile,F,False,
+beta,beta056929,2024-04-09 09:31:00,tea,Green Tea,0.75,65,24.7,1,65,40.3,0.62,to go,mobile,F,False,
+alpha,alpha041226,2024-04-09 10:21:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,eat in,mobile,F,False,
+beta,beta056983,2024-04-09 13:38:00,tea,Thai Tea,0.5,70,17.5,3,210,157.5,0.75,delivery,mobile,F,True,909.0
+alpha,alpha041262,2024-04-09 15:24:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,175.0
+beta,beta057030,2024-04-09 16:49:00,bakery,Muffin,,60,27.0,4,240,132.0,0.55,to go,mobile,F,True,1074.0
+beta,beta057091,2024-04-10 09:26:00,smoothie,Kiwi Smoothie,0.5,90,40.5,1,90,49.5,0.55,to go,mobile,F,True,127.0
+alpha,alpha041380,2024-04-10 15:50:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,False,
+alpha,alpha041480,2024-04-11 15:28:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,delivery,mobile,M,True,168.0
+alpha,alpha041488,2024-04-11 16:40:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,to go,mobile,F,False,
+alpha,alpha041545,2024-04-12 12:34:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,credit card,M,True,1052.0
+alpha,alpha041608,2024-04-14 14:30:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,delivery,mobile,M,True,868.0
+alpha,alpha041644,2024-04-15 13:32:00,coffee,Mocha,0.25,70,30.1,1,70,39.900000000000006,0.5700000000000001,to go,credit card,M,True,1023.0
+alpha,alpha041675,2024-04-15 16:37:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,F,False,
+alpha,alpha041720,2024-04-16 13:44:00,coffee,Mocha,1.0,70,30.1,3,210,119.70000000000002,0.5700000000000001,to go,credit card,M,False,
+beta,beta057562,2024-04-17 08:00:00,tea,Bubble Tea,0.5,70,17.5,3,210,157.5,0.75,delivery,mobile,M,True,869.0
+beta,beta057843,2024-04-18 18:18:00,tea,Green Tea,0.75,65,24.7,1,65,40.3,0.62,eat in,mobile,F,True,1060.0
+beta,beta058293,2024-04-22 14:45:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,eat in,mobile,F,True,136.0
+alpha,alpha042211,2024-04-22 17:24:00,coffee,Cappuccino,0.0,75,27.75,1,75,47.25,0.63,delivery,mobile,F,False,
+beta,beta058384,2024-04-23 08:14:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,mobile,F,True,
+beta,beta058604,2024-04-24 12:41:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,M,True,1807.0
+alpha,alpha042413,2024-04-24 15:11:00,coffee,Cappuccino,0.5,75,27.75,3,225,141.75,0.63,to go,cash,F,False,
+beta,beta058679,2024-04-24 18:35:00,tea,Bubble Tea,0.5,70,17.5,2,140,105.0,0.75,to go,mobile,M,True,278.0
+beta,beta058772,2024-04-25 12:52:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,eat in,mobile,M,False,
+beta,beta058866,2024-04-25 21:27:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,mobile,F,True,1072.0
+beta,beta058883,2024-04-26 08:19:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,mobile,F,True,247.0
+beta,beta059039,2024-04-26 18:32:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,F,True,
+beta,beta059158,2024-04-28 09:14:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,to go,mobile,M,True,934.0
+beta,beta059238,2024-04-29 08:53:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,to go,mobile,M,True,
+beta,beta059379,2024-04-29 17:53:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,1742.0
+alpha,alpha042832,2024-04-29 17:55:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,credit card,F,True,129.0
+alpha,alpha042905,2024-04-30 14:13:00,coffee,Americano,0.75,45,14.4,1,45,30.6,0.68,to go,mobile,F,False,
+alpha,alpha043065,2024-05-02 15:02:00,bakery,Donut,,40,12.0,3,120,84.0,0.7,eat in,credit card,M,True,1727.0
+alpha,alpha043073,2024-05-02 15:30:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,credit card,M,True,39.0
+beta,beta059692,2024-05-02 17:48:00,tea,Jasmine Tea,1.0,50,10.0,1,50,40.0,0.8,to go,mobile,F,True,1960.0
+beta,beta059863,2024-05-03 19:24:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,M,True,1179.0
+alpha,alpha043323,2024-05-06 14:11:00,smoothie,Strawberry Smoothie,0.25,85,25.5,1,85,59.5,0.7,delivery,mobile,F,False,
+beta,beta059997,2024-05-07 12:27:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,to go,mobile,F,True,317.0
+beta,beta060014,2024-05-07 13:33:00,coffee,Espresso,1.0,55,20.35,1,55,34.65,0.63,to go,credit card,M,True,1111.0
+alpha,alpha043478,2024-05-07 20:58:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,credit card,F,False,
+alpha,alpha043480,2024-05-07 21:21:00,coffee,Espresso,1.0,55,20.35,1,55,34.65,0.63,eat in,credit card,M,False,
+alpha,alpha043662,2024-05-09 17:11:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,delivery,credit card,M,False,
+alpha,alpha043683,2024-05-09 19:02:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,delivery,credit card,F,False,
+beta,beta060356,2024-05-10 12:32:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,True,
+beta,beta060408,2024-05-10 16:53:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,mobile,F,True,
+beta,beta060687,2024-05-13 18:40:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,credit card,F,True,1722.0
+alpha,alpha044101,2024-05-15 10:32:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,True,258.0
+beta,beta060934,2024-05-15 16:57:00,tea,Green Tea,0.25,65,24.7,2,130,80.6,0.62,to go,credit card,M,True,53.0
+alpha,alpha044198,2024-05-16 11:00:00,smoothie,Strawberry Smoothie,0.25,85,25.5,3,255,178.5,0.7,delivery,mobile,M,True,1126.0
+alpha,alpha044221,2024-05-16 15:04:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,credit card,F,False,
+alpha,alpha044293,2024-05-17 10:11:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,credit card,F,False,
+alpha,alpha044310,2024-05-17 12:46:00,tea,Jasmine Tea,0.5,50,10.0,1,50,40.0,0.8,eat in,mobile,F,False,
+beta,beta061146,2024-05-17 13:13:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,eat in,mobile,F,True,1729.0
+beta,beta061259,2024-05-18 12:02:00,tea,Yuzu Tea,0.0,70,24.5,3,210,136.5,0.65,eat in,mobile,F,True,1081.0
+alpha,alpha044502,2024-05-20 12:23:00,smoothie,Watermelon Smoothie,0.5,75,30.0,3,225,135.0,0.6,to go,mobile,F,True,1128.0
+alpha,alpha044521,2024-05-20 15:28:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,gift card,M,True,174.0
+beta,beta061577,2024-05-21 12:30:00,tea,Black Tea,0.5,40,8.0,2,80,64.0,0.8,delivery,credit card,M,True,270.0
+beta,beta061580,2024-05-21 12:36:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,1045.0
+beta,beta061626,2024-05-21 17:38:00,tea,Black Tea,0.5,40,8.0,2,80,64.0,0.8,to go,mobile,F,True,253.0
+beta,beta061654,2024-05-22 12:40:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,mobile,F,True,1927.0
+alpha,alpha044736,2024-05-23 08:21:00,coffee,Iced Americano,0.5,45,13.5,1,45,31.5,0.7,to go,mobile,M,False,
+beta,beta061738,2024-05-23 15:35:00,coffee,Latte,1.0,65,27.95,2,130,74.1,0.57,to go,mobile,M,False,
+beta,beta061801,2024-05-24 10:02:00,coffee,Latte,0.25,65,27.95,3,195,111.15,0.57,to go,credit card,M,True,
+alpha,alpha044863,2024-05-24 10:54:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,credit card,F,False,
+beta,beta061938,2024-05-25 16:12:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,eat in,mobile,F,True,258.0
+beta,beta061968,2024-05-26 09:48:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,eat in,mobile,F,True,1843.0
+alpha,alpha045026,2024-05-27 10:32:00,coffee,Latte,0.5,65,27.95,1,65,37.05,0.57,to go,cash,F,True,988.0
+alpha,alpha045085,2024-05-27 16:11:00,bakery,Cookie,,85,29.75,2,170,110.5,0.65,delivery,mobile,F,True,1065.0
+beta,beta062119,2024-05-27 16:19:00,tea,Jasmine Tea,0.75,50,10.0,1,50,40.0,0.8,eat in,mobile,F,True,1660.0
+alpha,alpha045283,2024-05-29 08:49:00,tea,Bubble Tea,0.25,70,17.5,3,210,157.5,0.75,to go,mobile,M,False,
+beta,beta062477,2024-05-30 15:09:00,smoothie,Mango Smoothie,0.75,90,31.5,1,90,58.5,0.65,to go,mobile,F,True,1169.0
+beta,beta062582,2024-05-31 12:34:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,F,True,1772.0
+alpha,alpha045572,2024-05-31 17:03:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,delivery,cash,F,True,1089.0
+beta,beta062723,2024-06-02 09:32:00,tea,Thai Tea,0.5,70,17.5,3,210,157.5,0.75,to go,mobile,F,True,853.0
+alpha,alpha045669,2024-06-03 11:46:00,tea,Green Tea,0.5,65,24.7,1,65,40.3,0.62,to go,credit card,M,False,
+alpha,alpha045727,2024-06-04 08:36:00,coffee,Iced Latte,0.5,65,22.75,3,195,126.75,0.65,to go,credit card,F,False,
+alpha,alpha045843,2024-06-05 08:46:00,coffee,Iced Americano,0.5,45,13.5,1,45,31.5,0.7,to go,credit card,F,False,
+alpha,alpha045847,2024-06-05 09:39:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,to go,mobile,M,True,105.0
+beta,beta062875,2024-06-05 12:02:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,eat in,mobile,M,True,1016.0
+beta,beta062893,2024-06-05 15:32:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,eat in,mobile,F,True,1915.0
+alpha,alpha045896,2024-06-05 16:15:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,gift card,F,True,2015.0
+beta,beta062926,2024-06-06 09:41:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,credit card,F,True,1782.0
+alpha,alpha045979,2024-06-06 13:41:00,smoothie,Watermelon Smoothie,0.5,75,30.0,3,225,135.0,0.6,to go,credit card,M,False,
+beta,beta062969,2024-06-06 16:20:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,True,1641.0
+beta,beta062978,2024-06-06 18:17:00,tea,Green Tea,0.0,65,24.7,2,130,80.6,0.62,eat in,gift card,M,True,1744.0
+beta,beta063002,2024-06-07 10:07:00,smoothie,Strawberry Smoothie,0.0,85,25.5,1,85,59.5,0.7,to go,credit card,F,True,968.0
+beta,beta063124,2024-06-09 14:34:00,coffee,Espresso,0.25,55,20.35,1,55,34.65,0.63,to go,mobile,M,True,1860.0
+alpha,alpha046351,2024-06-11 09:44:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,cash,F,False,
+beta,beta063255,2024-06-11 13:04:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,F,True,880.0
+alpha,alpha046422,2024-06-11 16:04:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,False,
+alpha,alpha046558,2024-06-13 08:38:00,coffee,Iced Latte,0.0,65,22.75,2,130,84.5,0.65,to go,credit card,F,False,
+beta,beta063413,2024-06-13 13:38:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,
+alpha,alpha046749,2024-06-14 17:24:00,coffee,Iced Americano,0.5,45,13.5,2,90,63.0,0.7,to go,credit card,F,True,285.0
+beta,beta063512,2024-06-14 17:52:00,smoothie,Mango Smoothie,0.0,90,31.5,1,90,58.5,0.65,eat in,mobile,F,True,223.0
+beta,beta063649,2024-06-17 11:34:00,tea,Green Tea,0.0,65,24.7,1,65,40.3,0.62,delivery,mobile,F,False,
+beta,beta063731,2024-06-18 09:45:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,gift card,F,True,1948.0
+beta,beta063778,2024-06-18 16:27:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,True,
+alpha,alpha047139,2024-06-19 18:16:00,smoothie,Kiwi Smoothie,0.75,90,40.5,3,270,148.5,0.55,delivery,mobile,M,True,55.0
+beta,beta063863,2024-06-20 07:58:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,eat in,credit card,F,True,
+alpha,alpha047339,2024-06-21 16:05:00,coffee,Iced Americano,0.75,45,13.5,1,45,31.5,0.7,to go,credit card,F,True,400.0
+alpha,alpha047347,2024-06-21 16:40:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,delivery,credit card,M,False,
+alpha,alpha047390,2024-06-22 10:47:00,tea,Jasmine Tea,1.0,50,10.0,2,100,80.0,0.8,delivery,mobile,M,True,1728.0
+beta,beta064075,2024-06-23 09:55:00,coffee,Espresso,0.0,55,20.35,1,55,34.65,0.63,to go,mobile,M,True,392.0
+alpha,alpha047454,2024-06-24 10:22:00,smoothie,Kiwi Smoothie,0.0,90,40.5,2,180,99.0,0.55,eat in,credit card,M,False,
+alpha,alpha047498,2024-06-24 14:26:00,coffee,Espresso,0.25,55,20.35,1,55,34.65,0.63,to go,mobile,M,False,
+alpha,alpha047554,2024-06-24 19:53:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,cash,M,False,
+alpha,alpha047693,2024-06-25 20:43:00,smoothie,Kiwi Smoothie,0.25,90,40.5,1,90,49.5,0.55,delivery,cash,F,False,
+beta,beta064314,2024-06-26 10:36:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,eat in,mobile,F,True,1186.0
+alpha,alpha047867,2024-06-27 16:07:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,mobile,F,False,
+beta,beta064457,2024-06-28 09:50:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,1801.0
+alpha,alpha047938,2024-06-28 10:43:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,credit card,F,False,
+beta,beta064579,2024-06-29 16:19:00,tea,Yuzu Tea,0.5,70,24.5,1,70,45.5,0.65,to go,credit card,F,True,295.0
+beta,beta064608,2024-06-30 12:05:00,tea,Yuzu Tea,0.0,70,24.5,1,70,45.5,0.65,delivery,mobile,F,True,1203.0
+beta,beta064675,2024-07-01 15:17:00,smoothie,Watermelon Smoothie,0.5,75,30.0,1,75,45.0,0.6,delivery,mobile,M,True,2096.0
+alpha,alpha048208,2024-07-01 19:12:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,delivery,mobile,F,False,
+beta,beta064873,2024-07-04 09:05:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,eat in,mobile,M,True,1133.0
+alpha,alpha048556,2024-07-05 09:33:00,coffee,Iced Latte,0.25,65,22.75,1,65,42.25,0.65,to go,mobile,F,False,
+alpha,alpha048629,2024-07-05 16:38:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,mobile,M,True,1132.0
+alpha,alpha048636,2024-07-05 17:11:00,coffee,Americano,0.25,45,14.4,1,45,30.6,0.68,delivery,mobile,M,False,
+beta,beta065064,2024-07-06 12:01:00,smoothie,Kiwi Smoothie,1.0,90,40.5,1,90,49.5,0.55,eat in,credit card,F,True,1966.0
+alpha,alpha048754,2024-07-08 10:12:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,to go,credit card,M,False,
+beta,beta065155,2024-07-08 10:32:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,delivery,mobile,F,False,
+alpha,alpha048778,2024-07-08 13:28:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,2121.0
+alpha,alpha048807,2024-07-08 15:42:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,delivery,credit card,F,True,295.0
+alpha,alpha048807,2024-07-08 15:42:00,coffee,Americano,0.5,45,14.4,1,45,30.6,0.68,delivery,credit card,F,True,295.0
+beta,beta065200,2024-07-08 17:52:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,delivery,gift card,F,True,1129.0
+beta,beta065304,2024-07-09 19:22:00,coffee,Espresso,1.0,55,20.35,2,110,69.3,0.63,to go,mobile,F,True,94.0
+beta,beta065326,2024-07-10 10:17:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+beta,beta065343,2024-07-10 12:44:00,coffee,Mocha,0.5,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,mobile,M,True,1892.0
+beta,beta065349,2024-07-10 13:38:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,eat in,credit card,F,True,391.0
+alpha,alpha049101,2024-07-11 11:40:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,eat in,credit card,M,False,
+beta,beta065420,2024-07-11 15:33:00,tea,Yuzu Tea,0.75,70,24.5,1,70,45.5,0.65,to go,credit card,F,False,
+alpha,alpha049156,2024-07-11 17:43:00,coffee,Mocha,0.5,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,credit card,M,True,900.0
+beta,beta065562,2024-07-13 08:10:00,coffee,Latte,0.5,65,27.95,2,130,74.1,0.57,to go,mobile,M,True,
+alpha,alpha049322,2024-07-14 13:54:00,tea,Bubble Tea,0.75,70,17.5,2,140,105.0,0.75,to go,credit card,M,True,1985.0
+beta,beta065689,2024-07-15 11:12:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,327.0
+beta,beta065705,2024-07-15 12:42:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,M,True,
+beta,beta065725,2024-07-15 15:15:00,coffee,Mocha,0.25,70,30.1,1,70,39.900000000000006,0.5700000000000001,delivery,mobile,F,True,335.0
+alpha,alpha049455,2024-07-15 17:55:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,mobile,F,False,
+alpha,alpha049459,2024-07-15 18:16:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,eat in,credit card,M,True,
+alpha,alpha049459,2024-07-15 18:16:00,tea,Thai Tea,0.25,70,17.5,3,210,157.5,0.75,eat in,credit card,M,True,
+alpha,alpha049521,2024-07-16 10:22:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,delivery,credit card,M,False,
+beta,beta065923,2024-07-18 07:21:00,coffee,Nitro Flat White,0.75,155,74.39999999999999,1,155,80.60000000000001,0.52,eat in,mobile,F,True,1798.0
+alpha,alpha049746,2024-07-18 13:13:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,2,310,161.20000000000002,0.52,to go,credit card,F,True,1762.0
+beta,beta065958,2024-07-18 13:51:00,smoothie,Kiwi Smoothie,0.75,90,40.5,1,90,49.5,0.55,eat in,mobile,M,False,
+alpha,alpha049764,2024-07-18 15:57:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,credit card,F,False,
+alpha,alpha049967,2024-07-22 10:09:00,coffee,Iced Latte,0.25,65,22.75,1,65,42.25,0.65,to go,credit card,M,False,
+alpha,alpha050146,2024-07-23 18:52:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,eat in,cash,F,False,
+beta,beta066265,2024-07-24 12:09:00,coffee,Espresso,0.75,55,20.35,1,55,34.65,0.63,to go,cash,M,False,
+alpha,alpha050231,2024-07-24 17:28:00,coffee,Iced Americano,0.25,45,13.5,1,45,31.5,0.7,to go,credit card,F,True,1128.0
+beta,beta066478,2024-07-26 18:55:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,1727.0
+beta,beta066478,2024-07-26 18:55:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,M,True,1727.0
+alpha,alpha050536,2024-07-29 14:50:00,coffee,Cappuccino,0.25,75,27.75,1,75,47.25,0.63,to go,mobile,F,False,
+beta,beta066574,2024-07-30 09:35:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,delivery,mobile,M,True,120.0
+beta,beta066601,2024-07-30 12:37:00,tea,Thai Tea,0.25,70,17.5,3,210,157.5,0.75,delivery,gift card,F,True,1755.0
+alpha,alpha050761,2024-07-31 15:11:00,tea,Bubble Tea,0.5,70,17.5,3,210,157.5,0.75,eat in,mobile,M,False,
+beta,beta066831,2024-08-01 12:31:00,tea,Jasmine Tea,0.25,50,10.0,1,50,40.0,0.8,to go,mobile,M,True,
+alpha,alpha050897,2024-08-01 19:42:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,credit card,M,False,
+beta,beta067073,2024-08-02 15:07:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,mobile,F,True,451.0
+alpha,alpha051006,2024-08-02 17:50:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,delivery,cash,F,False,
+alpha,alpha051147,2024-08-05 11:35:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,True,
+beta,beta067541,2024-08-05 19:11:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,delivery,mobile,F,True,
+alpha,alpha051303,2024-08-06 14:21:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,credit card,F,True,1261.0
+alpha,alpha051346,2024-08-06 18:04:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,to go,mobile,F,False,
+alpha,alpha051367,2024-08-06 21:47:00,coffee,Mocha,0.0,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,mobile,M,True,1281.0
+alpha,alpha051425,2024-08-07 15:27:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,eat in,mobile,F,False,
+alpha,alpha051599,2024-08-09 08:31:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,eat in,credit card,M,False,
+beta,beta068203,2024-08-09 12:21:00,coffee,Mocha Cold Brew,0.25,165,79.2,1,165,85.8,0.52,eat in,cash,M,True,322.0
+alpha,alpha051722,2024-08-09 18:50:00,coffee,Cappuccino,0.5,75,27.75,1,75,47.25,0.63,to go,cash,M,False,
+alpha,alpha051738,2024-08-10 07:09:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,delivery,mobile,F,False,
+alpha,alpha051750,2024-08-10 12:46:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,credit card,M,True,310.0
+beta,beta068546,2024-08-12 13:43:00,coffee,Iced Latte,0.25,65,22.75,1,65,42.25,0.65,eat in,mobile,M,False,
+beta,beta068552,2024-08-12 15:05:00,coffee,Espresso,0.5,55,20.35,3,165,103.95,0.63,delivery,mobile,F,True,1690.0
+alpha,alpha051862,2024-08-12 17:04:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,F,True,
+beta,beta068635,2024-08-13 12:11:00,coffee,Espresso,0.25,55,20.35,1,55,34.65,0.63,to go,mobile,M,False,
+beta,beta068661,2024-08-13 13:46:00,coffee,Iced Latte,0.0,65,22.75,1,65,42.25,0.65,to go,mobile,F,False,
+beta,beta068661,2024-08-13 13:46:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,mobile,F,False,
+beta,beta068675,2024-08-13 14:57:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,False,
+beta,beta068942,2024-08-15 09:04:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,mobile,M,True,2163.0
+alpha,alpha052308,2024-08-16 16:15:00,coffee,Iced Latte,0.75,65,22.75,3,195,126.75,0.65,eat in,credit card,F,False,
+alpha,alpha052309,2024-08-16 16:17:00,smoothie,Kiwi Smoothie,0.25,90,40.5,1,90,49.5,0.55,delivery,cash,F,True,340.0
+alpha,alpha052334,2024-08-16 18:50:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,delivery,credit card,M,False,
+beta,beta069340,2024-08-17 13:04:00,smoothie,Watermelon Smoothie,0.5,75,30.0,1,75,45.0,0.6,eat in,mobile,F,True,
+beta,beta069361,2024-08-17 15:34:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,True,538.0
+alpha,alpha052394,2024-08-18 09:00:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,cash,F,True,
+alpha,alpha052449,2024-08-19 11:47:00,tea,Thai Tea,0.5,70,17.5,2,140,105.0,0.75,to go,mobile,M,True,1097.0
+alpha,alpha052508,2024-08-19 16:56:00,coffee,Latte,0.25,65,27.95,5,325,185.25,0.57,to go,credit card,F,True,
+beta,beta069650,2024-08-19 19:31:00,coffee,Iced Americano,0.25,45,13.5,3,135,94.5,0.7,delivery,mobile,F,True,1059.0
+beta,beta070094,2024-08-22 12:50:00,bakery,Cookie,,85,29.75,2,170,110.5,0.65,to go,mobile,M,True,1886.0
+beta,beta070118,2024-08-22 14:26:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,delivery,credit card,M,True,1052.0
+alpha,alpha052902,2024-08-22 18:04:00,smoothie,Watermelon Smoothie,0.0,75,30.0,2,150,90.0,0.6,to go,credit card,F,True,866.0
+alpha,alpha053103,2024-08-26 08:52:00,coffee,Iced Latte,0.5,65,22.75,2,130,84.5,0.65,to go,cash,M,True,1881.0
+alpha,alpha053214,2024-08-26 18:30:00,coffee,Americano,0.25,45,14.4,1,45,30.6,0.68,delivery,mobile,F,False,
+beta,beta070768,2024-08-26 19:13:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,
+alpha,alpha053309,2024-08-27 15:32:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,credit card,M,True,82.0
+beta,beta070992,2024-08-28 07:11:00,coffee,Mocha,0.25,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,mobile,M,False,
+beta,beta071028,2024-08-28 10:04:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,to go,mobile,F,True,384.0
+beta,beta071076,2024-08-28 13:19:00,tea,Yuzu Tea,0.75,70,24.5,3,210,136.5,0.65,eat in,mobile,F,True,
+beta,beta071407,2024-08-30 11:08:00,coffee,Espresso,0.25,55,20.35,2,110,69.3,0.63,delivery,mobile,M,True,1890.0
+alpha,alpha053596,2024-08-30 14:48:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,mobile,M,True,327.0
+beta,beta071539,2024-08-31 09:27:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,385.0
+beta,beta071777,2024-09-02 12:18:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,156.0
+alpha,alpha053773,2024-09-02 14:55:00,tea,Thai Tea,0.5,70,17.5,3,210,157.5,0.75,delivery,credit card,M,False,
+alpha,alpha053782,2024-09-02 15:15:00,coffee,Mocha,0.25,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,credit card,F,True,67.0
+alpha,alpha053788,2024-09-02 15:35:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,delivery,credit card,M,False,
+beta,beta071843,2024-09-02 17:50:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,M,True,
+alpha,alpha053850,2024-09-03 07:36:00,coffee,Cappuccino,1.0,75,27.75,1,75,47.25,0.63,delivery,mobile,F,True,1269.0
+alpha,alpha053864,2024-09-03 09:10:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,to go,credit card,F,False,
+beta,beta071960,2024-09-03 14:12:00,coffee,Mocha Cold Brew,0.5,165,79.2,1,165,85.8,0.52,to go,mobile,M,True,405.0
+alpha,alpha053965,2024-09-03 18:51:00,coffee,Cappuccino,0.25,75,27.75,1,75,47.25,0.63,to go,mobile,M,False,
+alpha,alpha054160,2024-09-05 17:53:00,tea,Black Tea,0.25,40,8.0,3,120,96.0,0.8,delivery,credit card,F,False,
+alpha,alpha054313,2024-09-06 21:36:00,tea,Green Tea,0.75,65,24.7,2,130,80.6,0.62,delivery,credit card,F,False,
+beta,beta072733,2024-09-08 19:20:00,tea,Black Tea,1.0,40,8.0,2,80,64.0,0.8,to go,credit card,M,True,2057.0
+beta,beta072788,2024-09-09 10:43:00,coffee,Americano,0.25,45,14.4,1,45,30.6,0.68,eat in,mobile,F,True,67.0
+beta,beta072853,2024-09-09 15:30:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,True,591.0
+alpha,alpha054469,2024-09-09 17:42:00,coffee,Mocha Cold Brew,0.25,165,79.2,1,165,85.8,0.52,eat in,mobile,M,False,
+alpha,alpha054536,2024-09-10 13:27:00,coffee,Americano,0.0,45,14.4,1,45,30.6,0.68,to go,mobile,M,True,1249.0
+beta,beta073404,2024-09-13 07:43:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,
+alpha,alpha054887,2024-09-13 14:12:00,smoothie,Watermelon Smoothie,0.75,75,30.0,1,75,45.0,0.6,eat in,mobile,M,False,
+alpha,alpha054988,2024-09-14 15:51:00,tea,Bubble Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,mobile,F,False,
+beta,beta073708,2024-09-16 07:57:00,smoothie,Kiwi Smoothie,0.25,90,40.5,3,270,148.5,0.55,to go,mobile,F,True,1103.0
+beta,beta073895,2024-09-17 08:40:00,coffee,Espresso,0.25,55,20.35,10,550,346.5,0.63,delivery,mobile,F,True,345.0
+alpha,alpha055295,2024-09-18 08:27:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,eat in,mobile,F,True,171.0
+alpha,alpha055317,2024-09-18 10:37:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,1,155,80.60000000000001,0.52,to go,mobile,F,False,
+alpha,alpha055373,2024-09-18 18:07:00,coffee,Nitro Flat White,0.5,155,74.39999999999999,3,465,241.8,0.52,eat in,credit card,F,False,
+beta,beta074263,2024-09-19 12:05:00,coffee,Iced Latte,0.25,65,22.75,3,195,126.75,0.65,eat in,mobile,M,True,1139.0
+beta,beta074661,2024-09-22 13:05:00,tea,Jasmine Tea,0.5,50,10.0,1,50,40.0,0.8,to go,mobile,F,True,
+alpha,alpha055707,2024-09-23 10:02:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,F,False,
+beta,beta074801,2024-09-23 14:19:00,bakery,Cookie,,85,29.75,2,170,110.5,0.65,delivery,mobile,M,True,1076.0
+beta,beta075014,2024-09-24 16:04:00,coffee,Mocha Cold Brew,0.5,165,79.2,1,165,85.8,0.52,to go,mobile,M,True,
+alpha,alpha055976,2024-09-25 15:46:00,smoothie,Kiwi Smoothie,0.25,90,40.5,3,270,148.5,0.55,eat in,mobile,F,False,
+beta,beta075235,2024-09-26 10:23:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,mobile,F,True,561.0
+beta,beta075263,2024-09-26 12:27:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,False,
+beta,beta075277,2024-09-26 13:01:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,570.0
+alpha,alpha056087,2024-09-26 17:28:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,False,
+alpha,alpha056166,2024-09-27 12:05:00,coffee,Mocha,0.5,70,30.1,3,210,119.70000000000002,0.5700000000000001,delivery,credit card,F,True,530.0
+beta,beta075536,2024-09-28 09:02:00,tea,Bubble Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,mobile,M,True,2043.0
+beta,beta075624,2024-09-29 07:21:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,eat in,mobile,F,True,1686.0
+beta,beta075625,2024-09-29 07:32:00,tea,Bubble Tea,0.75,70,17.5,3,210,157.5,0.75,to go,mobile,F,True,1024.0
+alpha,alpha056426,2024-09-30 19:24:00,smoothie,Mango Smoothie,0.25,90,31.5,1,90,58.5,0.65,eat in,credit card,M,False,
+beta,beta075863,2024-09-30 21:36:00,smoothie,Strawberry Smoothie,0.5,85,25.5,1,85,59.5,0.7,to go,mobile,F,True,1271.0
+alpha,alpha056533,2024-10-01 17:55:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,credit card,M,False,
+alpha,alpha056549,2024-10-01 19:02:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,credit card,F,True,2266.0
+alpha,alpha056885,2024-10-04 15:27:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,eat in,credit card,F,False,
+alpha,alpha056918,2024-10-04 17:47:00,tea,Bubble Tea,0.0,70,17.5,4,280,210.0,0.75,delivery,cash,M,False,
+alpha,alpha056999,2024-10-06 16:03:00,smoothie,Watermelon Smoothie,0.25,75,30.0,1,75,45.0,0.6,to go,mobile,M,False,
+alpha,alpha057053,2024-10-07 12:59:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,F,True,2253.0
+beta,beta076925,2024-10-08 07:30:00,smoothie,Strawberry Smoothie,0.5,85,25.5,2,170,119.0,0.7,eat in,mobile,M,True,1838.0
+alpha,alpha057157,2024-10-08 10:55:00,coffee,Iced Latte,0.0,65,22.75,1,65,42.25,0.65,delivery,mobile,F,False,
+beta,beta076981,2024-10-08 12:28:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,mobile,F,True,2323.0
+beta,beta077188,2024-10-09 15:36:00,bakery,Sandwich,,80,28.0,2,160,104.0,0.65,to go,mobile,M,False,
+alpha,alpha057350,2024-10-09 19:49:00,coffee,Mocha,0.0,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,credit card,F,False,
+alpha,alpha057408,2024-10-10 13:47:00,tea,Green Tea,0.5,65,24.7,2,130,80.6,0.62,to go,mobile,F,False,
+beta,beta077335,2024-10-10 14:10:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,mobile,F,True,
+alpha,alpha057510,2024-10-11 11:43:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,credit card,M,True,107.0
+beta,beta077487,2024-10-11 12:15:00,tea,Bubble Tea,0.25,70,17.5,2,140,105.0,0.75,to go,credit card,F,True,1360.0
+alpha,alpha057518,2024-10-11 12:31:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,credit card,M,True,249.0
+beta,beta077517,2024-10-11 13:32:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,M,True,1699.0
+beta,beta077848,2024-10-15 12:14:00,bakery,Muffin,,60,27.0,3,180,99.0,0.55,eat in,mobile,M,True,
+alpha,alpha057895,2024-10-16 13:35:00,bakery,Cheesecake,,120,72.0,2,240,96.0,0.4,delivery,credit card,F,False,
+beta,beta078073,2024-10-16 17:56:00,smoothie,Kiwi Smoothie,0.75,90,40.5,3,270,148.5,0.55,to go,mobile,F,True,851.0
+alpha,alpha058181,2024-10-18 18:26:00,coffee,Latte,1.0,65,27.95,1,65,37.05,0.57,to go,mobile,F,True,686.0
+beta,beta078448,2024-10-18 19:07:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,eat in,mobile,F,True,2034.0
+alpha,alpha058214,2024-10-19 14:21:00,smoothie,Watermelon Smoothie,0.5,75,30.0,2,150,90.0,0.6,to go,credit card,M,True,965.0
+beta,beta078637,2024-10-20 16:15:00,tea,Green Tea,0.0,65,24.7,1,65,40.3,0.62,eat in,mobile,F,True,884.0
+beta,beta078787,2024-10-21 16:01:00,bakery,Cookie,,85,29.75,1,85,55.25,0.65,to go,mobile,F,True,2337.0
+alpha,alpha058375,2024-10-21 17:17:00,smoothie,Watermelon Smoothie,0.5,75,30.0,1,75,45.0,0.6,eat in,mobile,M,True,1945.0
+beta,beta078803,2024-10-21 17:24:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,F,True,2253.0
+beta,beta078834,2024-10-21 19:31:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,eat in,mobile,M,True,1355.0
+beta,beta078872,2024-10-22 09:47:00,coffee,Latte,0.25,65,27.95,1,65,37.05,0.57,to go,mobile,M,True,72.0
+alpha,alpha058477,2024-10-22 15:28:00,coffee,Cappuccino,0.25,75,27.75,3,225,141.75,0.63,to go,cash,F,False,
+beta,beta078991,2024-10-22 17:45:00,smoothie,Strawberry Smoothie,0.5,85,25.5,1,85,59.5,0.7,to go,mobile,M,True,846.0
+beta,beta079066,2024-10-24 08:26:00,bakery,Cookie,,85,29.75,5,425,276.25,0.65,delivery,mobile,F,True,375.0
+beta,beta079272,2024-10-25 11:43:00,tea,Bubble Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,M,True,
+beta,beta079464,2024-10-26 14:51:00,smoothie,Watermelon Smoothie,0.5,75,30.0,2,150,90.0,0.6,delivery,mobile,M,False,
+beta,beta079538,2024-10-27 12:39:00,tea,Yuzu Tea,0.0,70,24.5,1,70,45.5,0.65,to go,mobile,M,True,
+beta,beta079610,2024-10-28 10:12:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,delivery,mobile,F,False,
+alpha,alpha058917,2024-10-28 15:50:00,coffee,Espresso,0.25,55,20.35,1,55,34.65,0.63,to go,credit card,F,False,
+beta,beta079810,2024-10-29 12:21:00,smoothie,Mango Smoothie,1.0,90,31.5,2,180,117.0,0.65,to go,mobile,F,True,974.0
+alpha,alpha059016,2024-10-29 13:34:00,tea,Thai Tea,0.0,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,357.0
+alpha,alpha059226,2024-10-31 10:56:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,eat in,mobile,F,False,
+beta,beta080195,2024-10-31 13:16:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,delivery,mobile,F,True,
+alpha,alpha059238,2024-10-31 13:54:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,credit card,M,True,1723.0
+alpha,alpha059307,2024-11-01 08:13:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,M,False,
+beta,beta080325,2024-11-01 10:44:00,tea,Yuzu Tea,0.75,70,24.5,1,70,45.5,0.65,to go,mobile,M,False,
+beta,beta080410,2024-11-01 16:11:00,bakery,Donut,,40,12.0,4,160,112.0,0.7,delivery,mobile,F,True,694.0
+alpha,alpha059410,2024-11-01 16:56:00,coffee,Mocha,0.5,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,mobile,F,False,
+beta,beta080693,2024-11-04 10:29:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,mobile,M,True,
+alpha,alpha059536,2024-11-04 10:49:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,3,465,241.8,0.52,eat in,mobile,F,False,
+beta,beta081134,2024-11-06 15:08:00,tea,Bubble Tea,0.75,70,17.5,2,140,105.0,0.75,to go,mobile,M,True,1333.0
+beta,beta081176,2024-11-06 17:53:00,tea,Green Tea,0.75,65,24.7,3,195,120.9,0.62,eat in,mobile,M,True,
+alpha,alpha059924,2024-11-07 16:33:00,coffee,Iced Latte,0.0,65,22.75,3,195,126.75,0.65,eat in,mobile,F,True,2172.0
+alpha,alpha059989,2024-11-08 11:09:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,to go,credit card,F,True,
+beta,beta081471,2024-11-08 12:21:00,tea,Yuzu Tea,0.0,70,24.5,1,70,45.5,0.65,to go,mobile,F,True,1660.0
+beta,beta081479,2024-11-08 12:41:00,bakery,Donut,,40,12.0,9,360,252.0,0.7,delivery,credit card,F,True,2049.0
+alpha,alpha060089,2024-11-09 10:30:00,coffee,Iced Americano,0.0,45,13.5,1,45,31.5,0.7,to go,credit card,M,False,
+beta,beta081626,2024-11-09 12:56:00,bakery,Sandwich,,80,28.0,3,240,156.0,0.65,eat in,credit card,M,True,441.0
+alpha,alpha060285,2024-11-11 18:31:00,bakery,Muffin,,60,27.0,2,120,66.0,0.55,delivery,mobile,M,False,
+alpha,alpha060290,2024-11-11 19:06:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,cash,F,False,
+alpha,alpha060343,2024-11-12 13:19:00,tea,Black Tea,0.25,40,8.0,1,40,32.0,0.8,to go,mobile,M,False,
+beta,beta082177,2024-11-13 13:48:00,tea,Yuzu Tea,0.5,70,24.5,2,140,91.0,0.65,to go,mobile,M,False,
+alpha,alpha060481,2024-11-13 14:45:00,tea,Black Tea,0.5,40,8.0,1,40,32.0,0.8,to go,mobile,M,True,1849.0
+beta,beta082416,2024-11-15 07:53:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,delivery,mobile,M,True,749.0
+alpha,alpha060739,2024-11-15 19:27:00,coffee,Latte,0.5,65,27.95,2,130,74.1,0.57,delivery,mobile,F,True,
+beta,beta082589,2024-11-16 09:22:00,tea,Bubble Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,1869.0
+beta,beta082621,2024-11-16 14:06:00,tea,Bubble Tea,0.75,70,17.5,1,70,52.5,0.75,delivery,mobile,M,True,
+beta,beta082715,2024-11-17 17:58:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,delivery,mobile,M,True,1173.0
+alpha,alpha060928,2024-11-18 16:22:00,coffee,Mocha,0.5,70,30.1,1,70,39.900000000000006,0.5700000000000001,eat in,credit card,F,False,
+alpha,alpha060957,2024-11-18 19:21:00,tea,Thai Tea,0.75,70,17.5,3,210,157.5,0.75,eat in,mobile,M,False,
+alpha,alpha061061,2024-11-19 16:07:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,credit card,M,False,
+alpha,alpha061090,2024-11-19 18:52:00,smoothie,Mango Smoothie,0.0,90,31.5,1,90,58.5,0.65,to go,mobile,M,True,2070.0
+beta,beta083096,2024-11-20 09:02:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,eat in,mobile,M,True,2331.0
+beta,beta083234,2024-11-20 18:07:00,tea,Thai Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,True,1526.0
+alpha,alpha061355,2024-11-22 11:08:00,coffee,Mocha,0.25,70,30.1,3,210,119.70000000000002,0.5700000000000001,eat in,credit card,M,True,182.0
+alpha,alpha061372,2024-11-22 13:35:00,smoothie,Watermelon Smoothie,0.25,75,30.0,3,225,135.0,0.6,to go,credit card,M,True,1222.0
+alpha,alpha061408,2024-11-22 16:59:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,to go,mobile,M,True,
+beta,beta083859,2024-11-25 09:25:00,smoothie,Kiwi Smoothie,0.25,90,40.5,1,90,49.5,0.55,to go,mobile,F,True,1282.0
+beta,beta083888,2024-11-25 11:05:00,bakery,Sandwich,,80,28.0,1,80,52.0,0.65,eat in,credit card,F,True,
+alpha,alpha061549,2024-11-25 13:02:00,coffee,Latte,0.75,65,27.95,1,65,37.05,0.57,to go,mobile,M,True,1524.0
+beta,beta083930,2024-11-25 13:56:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,delivery,mobile,M,True,1297.0
+beta,beta084159,2024-11-26 16:17:00,coffee,Americano,0.5,45,14.4,6,270,183.6,0.68,delivery,mobile,F,True,
+beta,beta084263,2024-11-27 10:56:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,delivery,mobile,F,True,
+alpha,alpha061778,2024-11-27 14:37:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,to go,mobile,M,True,
+alpha,alpha061936,2024-11-28 18:21:00,bakery,Sandwich,,80,28.0,4,320,208.0,0.65,delivery,credit card,F,False,
+alpha,alpha061939,2024-11-28 18:36:00,coffee,Cappuccino,0.5,75,27.75,1,75,47.25,0.63,eat in,mobile,F,True,
+alpha,alpha061942,2024-11-28 19:40:00,tea,Green Tea,0.75,65,24.7,1,65,40.3,0.62,to go,credit card,M,False,
+beta,beta084565,2024-11-29 10:17:00,tea,Thai Tea,0.25,70,17.5,2,140,105.0,0.75,delivery,credit card,F,True,1403.0
+beta,beta084575,2024-11-29 11:25:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,to go,credit card,F,True,274.0
+beta,beta084612,2024-11-29 15:01:00,tea,Green Tea,0.25,65,24.7,1,65,40.3,0.62,to go,credit card,F,True,1137.0
+beta,beta084814,2024-12-01 14:07:00,tea,Bubble Tea,0.25,70,17.5,1,70,52.5,0.75,eat in,mobile,F,False,
+alpha,alpha062266,2024-12-02 16:41:00,tea,Thai Tea,0.75,70,17.5,2,140,105.0,0.75,eat in,credit card,F,False,
+beta,beta084952,2024-12-02 17:21:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,mobile,F,True,2318.0
+beta,beta085078,2024-12-03 15:14:00,tea,Yuzu Tea,0.25,70,24.5,1,70,45.5,0.65,to go,mobile,F,True,855.0
+beta,beta085137,2024-12-03 19:43:00,bakery,Cookie,,85,29.75,2,170,110.5,0.65,to go,mobile,M,True,1914.0
+alpha,alpha062434,2024-12-03 19:47:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,to go,mobile,F,True,
+beta,beta085179,2024-12-04 10:38:00,coffee,Mocha Cold Brew,1.0,165,79.2,1,165,85.8,0.52,to go,mobile,M,True,483.0
+alpha,alpha062481,2024-12-04 11:05:00,coffee,Iced Latte,0.0,65,22.75,2,130,84.5,0.65,eat in,mobile,F,False,
+alpha,alpha062705,2024-12-06 17:38:00,smoothie,Kiwi Smoothie,0.25,90,40.5,1,90,49.5,0.55,eat in,credit card,M,False,
+alpha,alpha062706,2024-12-06 17:43:00,coffee,Americano,0.25,45,14.4,2,90,61.2,0.68,eat in,credit card,F,False,
+alpha,alpha062820,2024-12-09 10:21:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,delivery,mobile,M,False,
+alpha,alpha062908,2024-12-09 20:04:00,coffee,Mocha Cold Brew,0.5,165,79.2,1,165,85.8,0.52,to go,credit card,F,True,
+alpha,alpha062994,2024-12-11 08:05:00,coffee,Americano,1.0,45,14.4,2,90,61.2,0.68,eat in,credit card,F,True,
+beta,beta085893,2024-12-11 17:28:00,coffee,Iced Latte,0.5,65,22.75,3,195,126.75,0.65,to go,mobile,F,True,2257.0
+beta,beta085920,2024-12-12 06:06:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,to go,mobile,F,True,
+beta,beta085936,2024-12-12 08:25:00,coffee,Espresso,0.25,55,20.35,3,165,103.95,0.63,eat in,credit card,F,True,
+alpha,alpha063160,2024-12-12 14:12:00,coffee,Mocha Cold Brew,0.5,165,79.2,1,165,85.8,0.52,eat in,credit card,F,True,
+beta,beta086007,2024-12-12 15:56:00,tea,Thai Tea,0.5,70,17.5,3,210,157.5,0.75,delivery,mobile,F,True,
+alpha,alpha063284,2024-12-13 13:23:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,mobile,M,False,
+alpha,alpha063301,2024-12-13 15:15:00,bakery,Croissant,,85,46.75000000000001,3,255,114.74999999999996,0.4499999999999999,to go,mobile,M,False,
+alpha,alpha063388,2024-12-14 15:54:00,coffee,Cappuccino,1.0,75,27.75,1,75,47.25,0.63,eat in,credit card,F,False,
+beta,beta086326,2024-12-15 17:56:00,bakery,Muffin,,60,27.0,1,60,33.0,0.55,eat in,mobile,F,True,
+alpha,alpha063429,2024-12-15 20:29:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,to go,credit card,M,True,
+alpha,alpha063537,2024-12-16 17:22:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,to go,mobile,F,False,
+alpha,alpha063638,2024-12-17 15:28:00,bakery,Donut,,40,12.0,2,80,56.0,0.7,to go,credit card,M,False,
+beta,beta086722,2024-12-18 13:41:00,bakery,Cookie,,85,29.75,3,255,165.75,0.65,eat in,mobile,F,True,
+alpha,alpha063759,2024-12-18 15:38:00,bakery,Donut,,40,12.0,1,40,28.0,0.7,delivery,mobile,F,False,
+alpha,alpha063774,2024-12-18 18:37:00,tea,Yuzu Tea,0.0,70,24.5,2,140,91.0,0.65,to go,mobile,M,True,
+alpha,alpha063912,2024-12-19 21:06:00,smoothie,Kiwi Smoothie,0.25,90,40.5,1,90,49.5,0.55,eat in,credit card,F,False,
+beta,beta086920,2024-12-20 07:17:00,coffee,Nitro Flat White,0.25,155,74.39999999999999,3,465,241.8,0.52,delivery,mobile,M,True,
+beta,beta086986,2024-12-20 13:07:00,bakery,Croissant,,85,46.75000000000001,1,85,38.24999999999999,0.4499999999999999,to go,mobile,F,False,
+beta,beta087032,2024-12-20 16:53:00,bakery,Cheesecake,,120,72.0,3,360,144.0,0.4,eat in,mobile,M,True,
+beta,beta087125,2024-12-21 13:56:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,F,False,
+beta,beta087262,2024-12-23 11:41:00,tea,Bubble Tea,0.5,70,17.5,2,140,105.0,0.75,eat in,mobile,M,True,1361.0
+beta,beta087350,2024-12-23 17:28:00,tea,Thai Tea,0.5,70,17.5,1,70,52.5,0.75,eat in,mobile,F,True,1857.0
+beta,beta087500,2024-12-24 15:38:00,bakery,Cheesecake,,120,72.0,1,120,48.0,0.4,to go,mobile,M,True,
+alpha,alpha064518,2024-12-26 14:05:00,tea,Black Tea,0.25,40,8.0,1,40,32.0,0.8,to go,credit card,M,True,
+alpha,alpha064541,2024-12-26 16:18:00,coffee,Latte,1.0,65,27.95,3,195,111.15,0.57,eat in,cash,F,True,
+beta,beta087865,2024-12-27 09:35:00,smoothie,Watermelon Smoothie,0.5,75,30.0,1,75,45.0,0.6,eat in,mobile,M,True,2039.0
+beta,beta088064,2024-12-28 17:13:00,bakery,Croissant,,85,46.75000000000001,2,170,76.49999999999999,0.4499999999999999,delivery,mobile,F,True,

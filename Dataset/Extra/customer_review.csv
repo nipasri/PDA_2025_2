@@ -1,0 +1,11 @@
+name,gender,phone,email,fav_menu,reviews,review_text,notes,extra_rating
+Alice Wong,F,(062) 922-7486,alice.wong@example.com,"Clear Matcha   ,  Espresso ,   Latte","4.5/5","ให้ 4.5 เต็ม 5","good taste","4.5 / 5"
+Ben Chan,M,081-345-9021,ben.chan@example.com,"Mojito ,  Apple pie , Strawberry soda","4 out of 5","pretty good","-","four out of five"
+Chanya Lim,F,095 237 6644,chanya.lim@example.com,"Vanilla latte , Cappuccino ,  Caramel macchiato","2 out of 5","ไม่ค่อยชอบ","too sweet","2/5"
+Danai Park,M,0823-557-990,danai.park@example.com,"Lemon tea , Peach soda , Honey lime","3.5/5","ok-ish","average","3.5 out of 5"
+Ewa Tan,F,064 998 3110,ewa.tan@example.com,"Chocolate cake , Brownie , Muffin","4 คะแนนจาก 5 คะแนน","อร่อยมาก","recommended","four คะแนน"
+Fah Krit,F,089.724.6651,fah.krit@example.com,"Iced americano , Cold brew , Nitro coffee","3 คะแนนจาก 5","กลางๆ","bitter","3/5 คะแนน"
+Guy Lek,M,086-120-7743,guy.lek@example.com,"Blueberry cheesecake , Tiramisu , Red velvet","score: 3 out of 5","หวานไปนิด","-",3
+Hana Kim,F,080 555 9012,hana.kim@example.com,"Green tea ,  Thai milk tea ,  Oolong tea","rating 4/5","good balance","nice aroma","4 of five"
+Ian Soo,M,(093)410-2289,ian.soo@example.com,"Orange juice , Pineapple juice , Mango smoothie","ให้คะแนน 2.5 จาก 5","ไม่สด","sour","2.5/ five"
+Jane Phan,F,0887-330-415,jane.phan@example.com,"Matcha latte , Hojicha latte , Genmaicha","3.5 out of 5","โอเค","-","three point five"
